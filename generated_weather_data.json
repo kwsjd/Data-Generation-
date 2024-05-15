@@ -1,0 +1,542 @@
+[
+    {
+        "temperature": 12,
+        "humidity": 18,
+        "wind_speed": 26.276169791235226,
+        "condition": "college"
+    },
+    {
+        "temperature": 31,
+        "humidity": 83,
+        "wind_speed": 47.92162747126786,
+        "condition": "use"
+    },
+    {
+        "temperature": 8,
+        "humidity": 78,
+        "wind_speed": 83.30090437672855,
+        "condition": "past"
+    },
+    {
+        "temperature": -27,
+        "humidity": 68,
+        "wind_speed": 8.61802344319148,
+        "condition": "beat"
+    },
+    {
+        "temperature": 5,
+        "humidity": 5,
+        "wind_speed": 50.77173382011496,
+        "condition": "debate"
+    },
+    {
+        "temperature": 15,
+        "humidity": 66,
+        "wind_speed": 78.69589278928362,
+        "condition": "resource"
+    },
+    {
+        "temperature": 27,
+        "humidity": 81,
+        "wind_speed": 62.57521670202232,
+        "condition": "hit"
+    },
+    {
+        "temperature": 40,
+        "humidity": 68,
+        "wind_speed": 88.93705738772873,
+        "condition": "world"
+    },
+    {
+        "temperature": 7,
+        "humidity": 96,
+        "wind_speed": 80.1510396809735,
+        "condition": "go"
+    },
+    {
+        "temperature": -22,
+        "humidity": 82,
+        "wind_speed": 76.26627004669294,
+        "condition": "according"
+    },
+    {
+        "temperature": -7,
+        "humidity": 89,
+        "wind_speed": 3.3425749473426136,
+        "condition": "store"
+    },
+    {
+        "temperature": -24,
+        "humidity": 15,
+        "wind_speed": 73.93397345800048,
+        "condition": "majority"
+    },
+    {
+        "temperature": -14,
+        "humidity": 3,
+        "wind_speed": 7.979484064288711,
+        "condition": "down"
+    },
+    {
+        "temperature": -11,
+        "humidity": 35,
+        "wind_speed": 12.544244532821281,
+        "condition": "everything"
+    },
+    {
+        "temperature": 20,
+        "humidity": 84,
+        "wind_speed": 52.12663842958031,
+        "condition": "single"
+    },
+    {
+        "temperature": -24,
+        "humidity": 20,
+        "wind_speed": 30.126303752604965,
+        "condition": "water"
+    },
+    {
+        "temperature": 21,
+        "humidity": 39,
+        "wind_speed": 56.563234720055654,
+        "condition": "in"
+    },
+    {
+        "temperature": -25,
+        "humidity": 53,
+        "wind_speed": 97.75214928158728,
+        "condition": "low"
+    },
+    {
+        "temperature": 24,
+        "humidity": 5,
+        "wind_speed": 48.53684193341744,
+        "condition": "hold"
+    },
+    {
+        "temperature": -10,
+        "humidity": 93,
+        "wind_speed": 80.05028992336129,
+        "condition": "lead"
+    },
+    {
+        "temperature": -27,
+        "humidity": 81,
+        "wind_speed": 64.2119512383926,
+        "condition": "music"
+    },
+    {
+        "temperature": 39,
+        "humidity": 35,
+        "wind_speed": 57.84509142757269,
+        "condition": "her"
+    },
+    {
+        "temperature": -21,
+        "humidity": 77,
+        "wind_speed": 31.03092439519871,
+        "condition": "ask"
+    },
+    {
+        "temperature": 27,
+        "humidity": 46,
+        "wind_speed": 65.39435785323319,
+        "condition": "bit"
+    },
+    {
+        "temperature": -9,
+        "humidity": 87,
+        "wind_speed": 95.66858944631407,
+        "condition": "brother"
+    },
+    {
+        "temperature": 18,
+        "humidity": 21,
+        "wind_speed": 40.43412859328208,
+        "condition": "teach"
+    },
+    {
+        "temperature": 1,
+        "humidity": 80,
+        "wind_speed": 37.19518189086751,
+        "condition": "yard"
+    },
+    {
+        "temperature": 13,
+        "humidity": 63,
+        "wind_speed": 35.74593470416909,
+        "condition": "best"
+    },
+    {
+        "temperature": -20,
+        "humidity": 53,
+        "wind_speed": 22.835165806310677,
+        "condition": "upon"
+    },
+    {
+        "temperature": 32,
+        "humidity": 95,
+        "wind_speed": 23.519933057768196,
+        "condition": "police"
+    },
+    {
+        "temperature": 36,
+        "humidity": 28,
+        "wind_speed": 25.609224374421213,
+        "condition": "lose"
+    },
+    {
+        "temperature": -16,
+        "humidity": 58,
+        "wind_speed": 43.47341832086881,
+        "condition": "dream"
+    },
+    {
+        "temperature": 33,
+        "humidity": 57,
+        "wind_speed": 21.443694344219153,
+        "condition": "bank"
+    },
+    {
+        "temperature": 31,
+        "humidity": 50,
+        "wind_speed": 6.195632506659276,
+        "condition": "right"
+    },
+    {
+        "temperature": -4,
+        "humidity": 83,
+        "wind_speed": 28.68045838292992,
+        "condition": "me"
+    },
+    {
+        "temperature": 9,
+        "humidity": 68,
+        "wind_speed": 38.55578689124629,
+        "condition": "watch"
+    },
+    {
+        "temperature": -10,
+        "humidity": 67,
+        "wind_speed": 58.52950428036673,
+        "condition": "baby"
+    },
+    {
+        "temperature": 35,
+        "humidity": 38,
+        "wind_speed": 63.41007795953164,
+        "condition": "speak"
+    },
+    {
+        "temperature": 21,
+        "humidity": 61,
+        "wind_speed": 65.79556042216169,
+        "condition": "phone"
+    },
+    {
+        "temperature": 26,
+        "humidity": 56,
+        "wind_speed": 17.845965378466456,
+        "condition": "trip"
+    },
+    {
+        "temperature": -1,
+        "humidity": 17,
+        "wind_speed": 51.875070995142494,
+        "condition": "of"
+    },
+    {
+        "temperature": 7,
+        "humidity": 43,
+        "wind_speed": 74.01723091560089,
+        "condition": "myself"
+    },
+    {
+        "temperature": -1,
+        "humidity": 84,
+        "wind_speed": 50.772722662091155,
+        "condition": "article"
+    },
+    {
+        "temperature": 24,
+        "humidity": 3,
+        "wind_speed": 98.16911947451466,
+        "condition": "recently"
+    },
+    {
+        "temperature": -25,
+        "humidity": 82,
+        "wind_speed": 13.474406014312324,
+        "condition": "pay"
+    },
+    {
+        "temperature": 29,
+        "humidity": 100,
+        "wind_speed": 96.63620360766181,
+        "condition": "accept"
+    },
+    {
+        "temperature": 20,
+        "humidity": 2,
+        "wind_speed": 36.55481241256865,
+        "condition": "both"
+    },
+    {
+        "temperature": 34,
+        "humidity": 30,
+        "wind_speed": 93.19783707271866,
+        "condition": "have"
+    },
+    {
+        "temperature": 32,
+        "humidity": 82,
+        "wind_speed": 85.32881376792956,
+        "condition": "agent"
+    },
+    {
+        "temperature": -23,
+        "humidity": 83,
+        "wind_speed": 11.688569015591167,
+        "condition": "store"
+    },
+    {
+        "temperature": 27,
+        "humidity": 91,
+        "wind_speed": 82.8264994562651,
+        "condition": "sure"
+    },
+    {
+        "temperature": 5,
+        "humidity": 23,
+        "wind_speed": 67.25750726906206,
+        "condition": "sense"
+    },
+    {
+        "temperature": -2,
+        "humidity": 91,
+        "wind_speed": 86.43137818715806,
+        "condition": "box"
+    },
+    {
+        "temperature": -8,
+        "humidity": 65,
+        "wind_speed": 48.17080290401772,
+        "condition": "over"
+    },
+    {
+        "temperature": -11,
+        "humidity": 11,
+        "wind_speed": 95.7163184173227,
+        "condition": "time"
+    },
+    {
+        "temperature": -4,
+        "humidity": 94,
+        "wind_speed": 60.93979744626253,
+        "condition": "point"
+    },
+    {
+        "temperature": 37,
+        "humidity": 76,
+        "wind_speed": 27.300704338709615,
+        "condition": "increase"
+    },
+    {
+        "temperature": 39,
+        "humidity": 10,
+        "wind_speed": 70.48663389671653,
+        "condition": "similar"
+    },
+    {
+        "temperature": 26,
+        "humidity": 20,
+        "wind_speed": 70.69736336611649,
+        "condition": "impact"
+    },
+    {
+        "temperature": 23,
+        "humidity": 2,
+        "wind_speed": 51.613537091032654,
+        "condition": "experience"
+    },
+    {
+        "temperature": 15,
+        "humidity": 26,
+        "wind_speed": 51.684210205924494,
+        "condition": "manager"
+    },
+    {
+        "temperature": 1,
+        "humidity": 99,
+        "wind_speed": 77.67595810782184,
+        "condition": "water"
+    },
+    {
+        "temperature": 12,
+        "humidity": 8,
+        "wind_speed": 68.23501006153634,
+        "condition": "say"
+    },
+    {
+        "temperature": 20,
+        "humidity": 20,
+        "wind_speed": 26.360915744568423,
+        "condition": "American"
+    },
+    {
+        "temperature": 38,
+        "humidity": 12,
+        "wind_speed": 94.59503335781648,
+        "condition": "article"
+    },
+    {
+        "temperature": 9,
+        "humidity": 30,
+        "wind_speed": 26.302035237680656,
+        "condition": "bill"
+    },
+    {
+        "temperature": 9,
+        "humidity": 76,
+        "wind_speed": 54.337895854358166,
+        "condition": "week"
+    },
+    {
+        "temperature": 39,
+        "humidity": 97,
+        "wind_speed": 3.3208073895582335,
+        "condition": "research"
+    },
+    {
+        "temperature": 31,
+        "humidity": 31,
+        "wind_speed": 83.10405555088509,
+        "condition": "buy"
+    },
+    {
+        "temperature": 17,
+        "humidity": 37,
+        "wind_speed": 12.713382149590624,
+        "condition": "position"
+    },
+    {
+        "temperature": 9,
+        "humidity": 58,
+        "wind_speed": 86.28371424844967,
+        "condition": "represent"
+    },
+    {
+        "temperature": 16,
+        "humidity": 95,
+        "wind_speed": 99.89251885346594,
+        "condition": "drive"
+    },
+    {
+        "temperature": -8,
+        "humidity": 86,
+        "wind_speed": 33.91559133830548,
+        "condition": "gas"
+    },
+    {
+        "temperature": 20,
+        "humidity": 34,
+        "wind_speed": 16.913363694103566,
+        "condition": "four"
+    },
+    {
+        "temperature": -7,
+        "humidity": 96,
+        "wind_speed": 28.141262269648237,
+        "condition": "sort"
+    },
+    {
+        "temperature": 26,
+        "humidity": 12,
+        "wind_speed": 70.32136191715698,
+        "condition": "analysis"
+    },
+    {
+        "temperature": -26,
+        "humidity": 26,
+        "wind_speed": 4.787146472482329,
+        "condition": "own"
+    },
+    {
+        "temperature": 27,
+        "humidity": 93,
+        "wind_speed": 75.74189000831562,
+        "condition": "glass"
+    },
+    {
+        "temperature": 8,
+        "humidity": 55,
+        "wind_speed": 74.15988364936531,
+        "condition": "organization"
+    },
+    {
+        "temperature": -2,
+        "humidity": 63,
+        "wind_speed": 16.067832633857904,
+        "condition": "resource"
+    },
+    {
+        "temperature": -1,
+        "humidity": 39,
+        "wind_speed": 9.688765956473377,
+        "condition": "how"
+    },
+    {
+        "temperature": -4,
+        "humidity": 58,
+        "wind_speed": 42.227994392419845,
+        "condition": "move"
+    },
+    {
+        "temperature": -25,
+        "humidity": 13,
+        "wind_speed": 15.803282380021354,
+        "condition": "letter"
+    },
+    {
+        "temperature": 3,
+        "humidity": 48,
+        "wind_speed": 66.91056296469881,
+        "condition": "southern"
+    },
+    {
+        "temperature": -24,
+        "humidity": 83,
+        "wind_speed": 64.71314358102117,
+        "condition": "coach"
+    },
+    {
+        "temperature": 26,
+        "humidity": 26,
+        "wind_speed": 37.75406110111693,
+        "condition": "only"
+    },
+    {
+        "temperature": 23,
+        "humidity": 53,
+        "wind_speed": 38.568585157376255,
+        "condition": "present"
+    },
+    {
+        "temperature": 9,
+        "humidity": 87,
+        "wind_speed": 62.70364250988614,
+        "condition": "he"
+    },
+    {
+        "temperature": -30,
+        "humidity": 61,
+        "wind_speed": 98.50149386891681,
+        "condition": "school"
+    },
+    {
+        "temperature": -29,
+        "humidity": 46,
+        "wind_speed": 94.82230459453372,
+        "condition": "TV"
+    }
+]

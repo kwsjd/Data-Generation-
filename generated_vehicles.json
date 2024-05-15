@@ -1,0 +1,4997 @@
+[
+    {
+        "make": "Hardy Group",
+        "model": "There",
+        "year": 1999,
+        "vin": "YYOBOVZCCZKAUPFK9",
+        "color": "MediumAquaMarine",
+        "mileage": 282020,
+        "price": 54957.13
+    },
+    {
+        "make": "Lynn-Walsh",
+        "model": "Husband",
+        "year": 2000,
+        "vin": "RO5UWEM5ULJZ794JY",
+        "color": "Magenta",
+        "mileage": 276698,
+        "price": 52014.69
+    },
+    {
+        "make": "Koch-Bryant",
+        "model": "Large",
+        "year": 1997,
+        "vin": "AUXFVVCGXMGKIXUR3",
+        "color": "Cyan",
+        "mileage": 67872,
+        "price": 39967.69
+    },
+    {
+        "make": "Lester Ltd",
+        "model": "Let",
+        "year": 2021,
+        "vin": "QUYVY06SQULKEO4C3",
+        "color": "SlateGray",
+        "mileage": 295935,
+        "price": 43577.68
+    },
+    {
+        "make": "Thompson-Ibarra",
+        "model": "Door",
+        "year": 2013,
+        "vin": "91J9TGRAV74RMSESP",
+        "color": "Maroon",
+        "mileage": 41206,
+        "price": 14691.56
+    },
+    {
+        "make": "Poole-Cabrera",
+        "model": "Performance",
+        "year": 1994,
+        "vin": "MJW0ACZ90L2KQGKCJ",
+        "color": "Teal",
+        "mileage": 242991,
+        "price": 65172.25
+    },
+    {
+        "make": "Parsons-Berg",
+        "model": "Word",
+        "year": 2022,
+        "vin": "Q9GCZSYVYHQ880ZKW",
+        "color": "LightGray",
+        "mileage": 155228,
+        "price": 28641.33
+    },
+    {
+        "make": "Hicks-Taylor",
+        "model": "Wall",
+        "year": 2017,
+        "vin": "ZWNTEDDOTW4IHDFCW",
+        "color": "Fuchsia",
+        "mileage": 143852,
+        "price": 39510.09
+    },
+    {
+        "make": "Cardenas-Singh",
+        "model": "Wide",
+        "year": 1994,
+        "vin": "RT8DF3OC57L8PTXY7",
+        "color": "LavenderBlush",
+        "mileage": 268996,
+        "price": 42309.57
+    },
+    {
+        "make": "Morris-Patterson",
+        "model": "Seek",
+        "year": 2016,
+        "vin": "07UF3KMNIUSWYFPPT",
+        "color": "GreenYellow",
+        "mileage": 78880,
+        "price": 15452.32
+    },
+    {
+        "make": "Valdez PLC",
+        "model": "Growth",
+        "year": 2001,
+        "vin": "CWCU3BOBPXHAXCQED",
+        "color": "GoldenRod",
+        "mileage": 178843,
+        "price": 30378.89
+    },
+    {
+        "make": "Miller-Jenkins",
+        "model": "Record",
+        "year": 2016,
+        "vin": "GGPWD3IMINFDSE7VV",
+        "color": "Aqua",
+        "mileage": 197271,
+        "price": 41475.05
+    },
+    {
+        "make": "Fisher-Flores",
+        "model": "Most",
+        "year": 2010,
+        "vin": "NK5YC56N2WHVACAJT",
+        "color": "DarkSlateGray",
+        "mileage": 59555,
+        "price": 60622.85
+    },
+    {
+        "make": "Bowman-Curry",
+        "model": "Though",
+        "year": 2009,
+        "vin": "HURX5ACFJXTXOCR41",
+        "color": "YellowGreen",
+        "mileage": 130752,
+        "price": 65795.83
+    },
+    {
+        "make": "Huerta LLC",
+        "model": "Speech",
+        "year": 1999,
+        "vin": "ARQXAU1JPNTHLN9T5",
+        "color": "DarkTurquoise",
+        "mileage": 256502,
+        "price": 67677.73
+    },
+    {
+        "make": "Moreno, Powell and Davis",
+        "model": "As",
+        "year": 2020,
+        "vin": "IGYHB8B4AEFVFZCDO",
+        "color": "SeaGreen",
+        "mileage": 169611,
+        "price": 46561.75
+    },
+    {
+        "make": "Mcconnell-Molina",
+        "model": "War",
+        "year": 2023,
+        "vin": "8P559TS54UZHFEOSG",
+        "color": "White",
+        "mileage": 39623,
+        "price": 50199.72
+    },
+    {
+        "make": "Smith-Cortez",
+        "model": "As",
+        "year": 2014,
+        "vin": "GNDL0XUVZ5TAXA4FQ",
+        "color": "Khaki",
+        "mileage": 244272,
+        "price": 40888.65
+    },
+    {
+        "make": "Johnson LLC",
+        "model": "Night",
+        "year": 1994,
+        "vin": "LRKWM759VP9XOWI6H",
+        "color": "Olive",
+        "mileage": 188882,
+        "price": 9437.44
+    },
+    {
+        "make": "Cruz Ltd",
+        "model": "Water",
+        "year": 2009,
+        "vin": "IFFZLWADM1DOTAMBV",
+        "color": "SpringGreen",
+        "mileage": 266802,
+        "price": 22809.97
+    },
+    {
+        "make": "Nguyen, Robles and Craig",
+        "model": "Ground",
+        "year": 1991,
+        "vin": "IDOLNYTFLL0WXB8WT",
+        "color": "LimeGreen",
+        "mileage": 36706,
+        "price": 19756.7
+    },
+    {
+        "make": "Cuevas, Smith and Miller",
+        "model": "Money",
+        "year": 2008,
+        "vin": "NIII04YC6KYNLLLZF",
+        "color": "DarkBlue",
+        "mileage": 290501,
+        "price": 58441.22
+    },
+    {
+        "make": "Bates-Santos",
+        "model": "Summer",
+        "year": 2017,
+        "vin": "GLZHLTPOQUSKFGQSK",
+        "color": "LightCyan",
+        "mileage": 4542,
+        "price": 65359.39
+    },
+    {
+        "make": "Brown PLC",
+        "model": "Hospital",
+        "year": 2002,
+        "vin": "CDBIPKIWYCO3GG5RK",
+        "color": "Lavender",
+        "mileage": 105799,
+        "price": 9735.15
+    },
+    {
+        "make": "Rubio and Sons",
+        "model": "Boy",
+        "year": 2011,
+        "vin": "LPVWTSFEXCZZUFSQ1",
+        "color": "Silver",
+        "mileage": 69731,
+        "price": 64851.06
+    },
+    {
+        "make": "Jefferson-Taylor",
+        "model": "Require",
+        "year": 2011,
+        "vin": "XSJKPRQV1AI9UCL4R",
+        "color": "MediumTurquoise",
+        "mileage": 294951,
+        "price": 65976.09
+    },
+    {
+        "make": "Jennings-Lewis",
+        "model": "Cover",
+        "year": 1998,
+        "vin": "N1XLKA2LEJT6Q1PXH",
+        "color": "FireBrick",
+        "mileage": 165292,
+        "price": 24979.92
+    },
+    {
+        "make": "Harris, Bell and Rodriguez",
+        "model": "Skill",
+        "year": 2008,
+        "vin": "DL8MCHS8Q3M9CGVOF",
+        "color": "Yellow",
+        "mileage": 170375,
+        "price": 55599.98
+    },
+    {
+        "make": "Thompson Group",
+        "model": "Election",
+        "year": 2017,
+        "vin": "JEIYZGBRDSSQYH9LE",
+        "color": "OrangeRed",
+        "mileage": 240967,
+        "price": 25350.58
+    },
+    {
+        "make": "Baker Group",
+        "model": "Nothing",
+        "year": 2003,
+        "vin": "EKBTQJXZWPBIIR1ZQ",
+        "color": "LightBlue",
+        "mileage": 32757,
+        "price": 52288.54
+    },
+    {
+        "make": "Clarke Ltd",
+        "model": "Production",
+        "year": 2020,
+        "vin": "0KN9VIBIMLGVEKCEP",
+        "color": "SeaShell",
+        "mileage": 278539,
+        "price": 25756.44
+    },
+    {
+        "make": "Sherman-Olson",
+        "model": "But",
+        "year": 2019,
+        "vin": "9QSOZ3KMW7PU7G1MX",
+        "color": "Navy",
+        "mileage": 71461,
+        "price": 51144.42
+    },
+    {
+        "make": "Parsons, Stafford and Pope",
+        "model": "Actually",
+        "year": 2011,
+        "vin": "RPZNNAPJLCBRNPHLK",
+        "color": "OliveDrab",
+        "mileage": 79257,
+        "price": 42138.97
+    },
+    {
+        "make": "Case, Jenkins and Roberts",
+        "model": "Include",
+        "year": 1996,
+        "vin": "MRT9Y9GKOFSH41EDT",
+        "color": "Orchid",
+        "mileage": 53755,
+        "price": 58641.38
+    },
+    {
+        "make": "Norman, Price and Stanley",
+        "model": "Travel",
+        "year": 2002,
+        "vin": "KQWE0LGYVS4ACWVVH",
+        "color": "PaleVioletRed",
+        "mileage": 243569,
+        "price": 65192.99
+    },
+    {
+        "make": "Miller Ltd",
+        "model": "Lot",
+        "year": 2020,
+        "vin": "QTSDWNDXZQJUOSGW0",
+        "color": "LightYellow",
+        "mileage": 44303,
+        "price": 7791.23
+    },
+    {
+        "make": "Thompson Inc",
+        "model": "Arm",
+        "year": 1997,
+        "vin": "T1EB8KDCVBQ4KCD7U",
+        "color": "CadetBlue",
+        "mileage": 214116,
+        "price": 20325.66
+    },
+    {
+        "make": "Rollins-Cole",
+        "model": "Interest",
+        "year": 1996,
+        "vin": "NWZL6OBOA60GCNELJ",
+        "color": "Black",
+        "mileage": 247782,
+        "price": 62057.03
+    },
+    {
+        "make": "Davis Inc",
+        "model": "Need",
+        "year": 1990,
+        "vin": "MFCRKSHL1ZNQHWA1P",
+        "color": "DarkOrange",
+        "mileage": 55224,
+        "price": 22211.3
+    },
+    {
+        "make": "Davis, Mcdonald and Hill",
+        "model": "Difference",
+        "year": 2024,
+        "vin": "5FANWGBTEPONWR47P",
+        "color": "SaddleBrown",
+        "mileage": 223939,
+        "price": 59476.66
+    },
+    {
+        "make": "Bowman-Anderson",
+        "model": "Step",
+        "year": 2017,
+        "vin": "VGQOJCWZPBH42DUSR",
+        "color": "RoyalBlue",
+        "mileage": 85784,
+        "price": 7696.96
+    },
+    {
+        "make": "Johnson, Smith and Perry",
+        "model": "Scene",
+        "year": 2015,
+        "vin": "0P64VASLRJV8XKROO",
+        "color": "WhiteSmoke",
+        "mileage": 135585,
+        "price": 16582.95
+    },
+    {
+        "make": "Davidson, Robertson and Villa",
+        "model": "Short",
+        "year": 1998,
+        "vin": "6AN773OPIL0ZLTKZA",
+        "color": "SaddleBrown",
+        "mileage": 53124,
+        "price": 62301.9
+    },
+    {
+        "make": "Palmer, Huerta and Smith",
+        "model": "Where",
+        "year": 1990,
+        "vin": "VTZ4T9PUDTRAFLSGB",
+        "color": "Cyan",
+        "mileage": 104726,
+        "price": 23196.05
+    },
+    {
+        "make": "Warner-Delacruz",
+        "model": "Chair",
+        "year": 2001,
+        "vin": "3UIFZHYPWCOPCCNPK",
+        "color": "WhiteSmoke",
+        "mileage": 123340,
+        "price": 51323.84
+    },
+    {
+        "make": "Webster Group",
+        "model": "Hundred",
+        "year": 1991,
+        "vin": "OKBHSPCH8YNBEXEBI",
+        "color": "OrangeRed",
+        "mileage": 11451,
+        "price": 39605.3
+    },
+    {
+        "make": "Booth, Ballard and Scott",
+        "model": "Provide",
+        "year": 2019,
+        "vin": "EBHFCOIY8I2VPZDXI",
+        "color": "MediumSeaGreen",
+        "mileage": 55995,
+        "price": 34195.46
+    },
+    {
+        "make": "Ray, Dorsey and Smith",
+        "model": "Phone",
+        "year": 2007,
+        "vin": "CTRLFWKYROVLHD0BN",
+        "color": "MediumOrchid",
+        "mileage": 227791,
+        "price": 56421.0
+    },
+    {
+        "make": "Harris Group",
+        "model": "Run",
+        "year": 2004,
+        "vin": "FGR7ZOFVAUUMPHH5L",
+        "color": "Coral",
+        "mileage": 285459,
+        "price": 30486.87
+    },
+    {
+        "make": "Kelly-Parker",
+        "model": "Hope",
+        "year": 2009,
+        "vin": "QWJNLJSWIHVX2LNIY",
+        "color": "LightYellow",
+        "mileage": 84077,
+        "price": 19994.41
+    },
+    {
+        "make": "Rose Ltd",
+        "model": "Education",
+        "year": 2021,
+        "vin": "JRMAPS45GZKPPL9BD",
+        "color": "DarkGray",
+        "mileage": 7174,
+        "price": 53076.08
+    },
+    {
+        "make": "Guzman, Taylor and Payne",
+        "model": "Son",
+        "year": 2004,
+        "vin": "L9PCWZMLG70IWENUT",
+        "color": "Thistle",
+        "mileage": 172897,
+        "price": 16719.72
+    },
+    {
+        "make": "Taylor-Norris",
+        "model": "Movement",
+        "year": 2019,
+        "vin": "LZECUVV4SNAJZOITJ",
+        "color": "DarkSlateGray",
+        "mileage": 39512,
+        "price": 21595.59
+    },
+    {
+        "make": "Jones, Mendoza and Austin",
+        "model": "Until",
+        "year": 1993,
+        "vin": "IU6E6O1QCXGSPLGWB",
+        "color": "AliceBlue",
+        "mileage": 148489,
+        "price": 41137.58
+    },
+    {
+        "make": "Ray, Keller and Bridges",
+        "model": "No",
+        "year": 2020,
+        "vin": "VXODODMH6TYR1TLQD",
+        "color": "Chocolate",
+        "mileage": 196143,
+        "price": 36188.59
+    },
+    {
+        "make": "Mccullough LLC",
+        "model": "Begin",
+        "year": 2003,
+        "vin": "60ROF0AMOBSNRMXRH",
+        "color": "AliceBlue",
+        "mileage": 132790,
+        "price": 52620.07
+    },
+    {
+        "make": "Roach PLC",
+        "model": "Water",
+        "year": 2020,
+        "vin": "0TNIXWBF9HJASGCM9",
+        "color": "SpringGreen",
+        "mileage": 261370,
+        "price": 33898.39
+    },
+    {
+        "make": "Johnson, Jones and Gutierrez",
+        "model": "After",
+        "year": 2002,
+        "vin": "UI3FLCZ1HRQVXJRDH",
+        "color": "BurlyWood",
+        "mileage": 22120,
+        "price": 28118.98
+    },
+    {
+        "make": "Reyes, Smith and Acevedo",
+        "model": "Finish",
+        "year": 2006,
+        "vin": "WMDSDFHWNP6UUOQBP",
+        "color": "Indigo",
+        "mileage": 294576,
+        "price": 59135.22
+    },
+    {
+        "make": "Wilson PLC",
+        "model": "Whether",
+        "year": 1995,
+        "vin": "X8BRAYDRY7W6YRGUN",
+        "color": "Olive",
+        "mileage": 243336,
+        "price": 6663.0
+    },
+    {
+        "make": "Dillon, Moore and Wilson",
+        "model": "Again",
+        "year": 2012,
+        "vin": "ME8Q5KYTPFON0H1V4",
+        "color": "LightSalmon",
+        "mileage": 124166,
+        "price": 40598.14
+    },
+    {
+        "make": "Thomas, Stein and Gonzalez",
+        "model": "Near",
+        "year": 1994,
+        "vin": "F3Z5K4QEZUIBUAKQT",
+        "color": "DarkGreen",
+        "mileage": 258270,
+        "price": 23858.29
+    },
+    {
+        "make": "Cooper-Jordan",
+        "model": "Director",
+        "year": 1997,
+        "vin": "PAY9D8DDCCDR4SMGO",
+        "color": "Purple",
+        "mileage": 15982,
+        "price": 24317.52
+    },
+    {
+        "make": "Jones Ltd",
+        "model": "Actually",
+        "year": 1995,
+        "vin": "WMMOQ9HCN2COEDINU",
+        "color": "PaleGoldenRod",
+        "mileage": 100346,
+        "price": 60487.11
+    },
+    {
+        "make": "Nunez LLC",
+        "model": "Suddenly",
+        "year": 1994,
+        "vin": "T7UKFN2CBERENP9N2",
+        "color": "MediumSlateBlue",
+        "mileage": 261599,
+        "price": 58018.36
+    },
+    {
+        "make": "Boyd-Cruz",
+        "model": "Include",
+        "year": 2008,
+        "vin": "RKGUTPHGTT56C2KJD",
+        "color": "Lavender",
+        "mileage": 272260,
+        "price": 24674.94
+    },
+    {
+        "make": "Morales, Jackson and Rogers",
+        "model": "Understand",
+        "year": 1993,
+        "vin": "4OUI3QWAQZG7EXFXB",
+        "color": "PaleGreen",
+        "mileage": 234628,
+        "price": 13471.18
+    },
+    {
+        "make": "Hall, Anderson and Mack",
+        "model": "Increase",
+        "year": 2011,
+        "vin": "JQMGVSLPINMT3Z1DP",
+        "color": "SpringGreen",
+        "mileage": 115343,
+        "price": 48650.01
+    },
+    {
+        "make": "Wilson Inc",
+        "model": "Though",
+        "year": 2016,
+        "vin": "HPUKVO3Z5UYU3XEPL",
+        "color": "MediumTurquoise",
+        "mileage": 49480,
+        "price": 54343.55
+    },
+    {
+        "make": "Davis, Austin and Ford",
+        "model": "Much",
+        "year": 2001,
+        "vin": "KLLYL0GMIAZC3OIEU",
+        "color": "SpringGreen",
+        "mileage": 131451,
+        "price": 45015.06
+    },
+    {
+        "make": "Bush PLC",
+        "model": "Along",
+        "year": 2024,
+        "vin": "LDSAEYWUSTRCSAREU",
+        "color": "Purple",
+        "mileage": 32223,
+        "price": 59522.77
+    },
+    {
+        "make": "Gonzalez-Gregory",
+        "model": "Senior",
+        "year": 2018,
+        "vin": "A86GLH1AXBVCNVRH4",
+        "color": "Aqua",
+        "mileage": 244474,
+        "price": 45870.38
+    },
+    {
+        "make": "Lawrence-Thompson",
+        "model": "Few",
+        "year": 2002,
+        "vin": "MWJFGSIK5KQPODCOZ",
+        "color": "Red",
+        "mileage": 292427,
+        "price": 36394.6
+    },
+    {
+        "make": "Barr Ltd",
+        "model": "Suggest",
+        "year": 2010,
+        "vin": "HIHCNOXNTAIZVAEUK",
+        "color": "DarkViolet",
+        "mileage": 166265,
+        "price": 67870.53
+    },
+    {
+        "make": "James Ltd",
+        "model": "Grow",
+        "year": 2006,
+        "vin": "QP1N6DVUG2G8ST2OA",
+        "color": "DarkOliveGreen",
+        "mileage": 58033,
+        "price": 6464.01
+    },
+    {
+        "make": "Rowe, Robertson and Lawson",
+        "model": "His",
+        "year": 2010,
+        "vin": "4DRZMUGBHTEAEHBWG",
+        "color": "LightGreen",
+        "mileage": 216380,
+        "price": 9939.46
+    },
+    {
+        "make": "Cole Group",
+        "model": "Cause",
+        "year": 2007,
+        "vin": "RR8FON3NG8I9CQXOW",
+        "color": "Beige",
+        "mileage": 6831,
+        "price": 67043.48
+    },
+    {
+        "make": "Thomas, Cook and Ellis",
+        "model": "Offer",
+        "year": 2008,
+        "vin": "FBAUUTDR5SXW6AJLT",
+        "color": "LightGray",
+        "mileage": 204755,
+        "price": 14203.68
+    },
+    {
+        "make": "Hernandez-Cook",
+        "model": "Arm",
+        "year": 1998,
+        "vin": "9S47O4PRBS3ZIOWKQ",
+        "color": "Azure",
+        "mileage": 288714,
+        "price": 36699.8
+    },
+    {
+        "make": "Williams, Miller and Quinn",
+        "model": "Public",
+        "year": 2007,
+        "vin": "VZ6P2CXO0SY5OV8EF",
+        "color": "YellowGreen",
+        "mileage": 199738,
+        "price": 69302.55
+    },
+    {
+        "make": "Brown, Frazier and Black",
+        "model": "Evidence",
+        "year": 2000,
+        "vin": "R1MOPE6M95D7LODU3",
+        "color": "FireBrick",
+        "mileage": 237321,
+        "price": 27077.6
+    },
+    {
+        "make": "Thompson, Daniels and Nelson",
+        "model": "Box",
+        "year": 2016,
+        "vin": "YWTQNTEQDIMEAOBV1",
+        "color": "HotPink",
+        "mileage": 52869,
+        "price": 31482.11
+    },
+    {
+        "make": "Smith Inc",
+        "model": "Scientist",
+        "year": 2003,
+        "vin": "ZKRMJFALUNDT7ACCY",
+        "color": "Wheat",
+        "mileage": 77539,
+        "price": 7743.4
+    },
+    {
+        "make": "Kelly-Gomez",
+        "model": "Challenge",
+        "year": 2021,
+        "vin": "NQEOXKOHMEOMTHZTK",
+        "color": "DarkOliveGreen",
+        "mileage": 40866,
+        "price": 68063.37
+    },
+    {
+        "make": "Whitney, Chapman and Thomas",
+        "model": "Population",
+        "year": 2019,
+        "vin": "TA89XSZWHJM4MVGT7",
+        "color": "PapayaWhip",
+        "mileage": 94216,
+        "price": 51678.4
+    },
+    {
+        "make": "Carroll, Richardson and West",
+        "model": "Offer",
+        "year": 2006,
+        "vin": "V1RBFB8TXNEE9CP71",
+        "color": "DarkSlateGray",
+        "mileage": 289871,
+        "price": 13135.52
+    },
+    {
+        "make": "Gray-Barron",
+        "model": "List",
+        "year": 2004,
+        "vin": "T7HTETNTFHHW3IMRM",
+        "color": "Tan",
+        "mileage": 181841,
+        "price": 26912.32
+    },
+    {
+        "make": "Martinez-Williams",
+        "model": "From",
+        "year": 1995,
+        "vin": "CBFPMSATM1YOTOUUB",
+        "color": "Azure",
+        "mileage": 124278,
+        "price": 59054.97
+    },
+    {
+        "make": "Garcia Inc",
+        "model": "Then",
+        "year": 2006,
+        "vin": "KIX9K6NE02VJP3TDW",
+        "color": "NavajoWhite",
+        "mileage": 266412,
+        "price": 23015.54
+    },
+    {
+        "make": "Perry-Jennings",
+        "model": "Film",
+        "year": 2009,
+        "vin": "HUWPULF6MIDK1YZSD",
+        "color": "BlanchedAlmond",
+        "mileage": 238396,
+        "price": 37261.1
+    },
+    {
+        "make": "Wolf Group",
+        "model": "Year",
+        "year": 2001,
+        "vin": "UWGZXSFE3HQRCNO1M",
+        "color": "DarkRed",
+        "mileage": 153531,
+        "price": 57076.29
+    },
+    {
+        "make": "Jones PLC",
+        "model": "Pretty",
+        "year": 2020,
+        "vin": "2GRZZOTT1O62QRXUE",
+        "color": "FireBrick",
+        "mileage": 60003,
+        "price": 39415.65
+    },
+    {
+        "make": "Brown Group",
+        "model": "Write",
+        "year": 1994,
+        "vin": "LWEZNW2FTR35JMB2T",
+        "color": "DimGray",
+        "mileage": 131411,
+        "price": 35287.23
+    },
+    {
+        "make": "Scott-Hopkins",
+        "model": "Crime",
+        "year": 2018,
+        "vin": "DGTTLFISM2ANDETEJ",
+        "color": "Fuchsia",
+        "mileage": 17642,
+        "price": 36691.17
+    },
+    {
+        "make": "Cain and Sons",
+        "model": "Soon",
+        "year": 2008,
+        "vin": "UTUQ7SYAWVKB2ORWF",
+        "color": "Cyan",
+        "mileage": 35957,
+        "price": 31468.02
+    },
+    {
+        "make": "Dixon Ltd",
+        "model": "Individual",
+        "year": 2015,
+        "vin": "B6WX9KE2GFSNMFQIV",
+        "color": "RosyBrown",
+        "mileage": 236490,
+        "price": 39849.58
+    },
+    {
+        "make": "Cole, Griffin and Mendoza",
+        "model": "Compare",
+        "year": 2019,
+        "vin": "3R0ORDSEJ3YGKKMUR",
+        "color": "OrangeRed",
+        "mileage": 168134,
+        "price": 42105.85
+    },
+    {
+        "make": "Mendoza, Smith and David",
+        "model": "Type",
+        "year": 1997,
+        "vin": "IKYTSEAOK8NQ9LNFU",
+        "color": "SteelBlue",
+        "mileage": 9173,
+        "price": 43542.98
+    },
+    {
+        "make": "Brown-Adams",
+        "model": "Beyond",
+        "year": 1999,
+        "vin": "PD3L5HXYN8GPGKAFA",
+        "color": "DarkRed",
+        "mileage": 54226,
+        "price": 69807.85
+    },
+    {
+        "make": "Morris, Shaw and Tyler",
+        "model": "Conference",
+        "year": 2004,
+        "vin": "N5IMJU1DVIIRFNJ5Q",
+        "color": "DarkSeaGreen",
+        "mileage": 260945,
+        "price": 14816.4
+    },
+    {
+        "make": "Howard, Pena and Spencer",
+        "model": "Yes",
+        "year": 2023,
+        "vin": "URTGSVQZ6CVKAKDG3",
+        "color": "SeaGreen",
+        "mileage": 198114,
+        "price": 24802.88
+    },
+    {
+        "make": "Lawrence, Hood and Young",
+        "model": "Goal",
+        "year": 2003,
+        "vin": "TZZG3NLZO7GSVT1GC",
+        "color": "Green",
+        "mileage": 224899,
+        "price": 14348.77
+    },
+    {
+        "make": "Smith-Anderson",
+        "model": "By",
+        "year": 2001,
+        "vin": "J7ORQORENKONMO5CZ",
+        "color": "SaddleBrown",
+        "mileage": 231394,
+        "price": 17632.75
+    },
+    {
+        "make": "Conner, Brown and Cain",
+        "model": "Traditional",
+        "year": 2018,
+        "vin": "FOH69QLFS8Y4LXOQ3",
+        "color": "PowderBlue",
+        "mileage": 269783,
+        "price": 60956.65
+    },
+    {
+        "make": "Jordan-Massey",
+        "model": "President",
+        "year": 2012,
+        "vin": "OCNOHUA2VXPAFAJWC",
+        "color": "Linen",
+        "mileage": 79700,
+        "price": 40432.64
+    },
+    {
+        "make": "Barnes and Sons",
+        "model": "Democratic",
+        "year": 1990,
+        "vin": "I4HSR2DE1O6YXBDTJ",
+        "color": "LightSalmon",
+        "mileage": 138995,
+        "price": 9660.71
+    },
+    {
+        "make": "Taylor-Sanchez",
+        "model": "Father",
+        "year": 2000,
+        "vin": "HVZOW1VYFOASXSWKQ",
+        "color": "RosyBrown",
+        "mileage": 253223,
+        "price": 56390.46
+    },
+    {
+        "make": "Ross, Krueger and Herrera",
+        "model": "Everybody",
+        "year": 2012,
+        "vin": "JX8MAOP1P64PDBKVS",
+        "color": "Sienna",
+        "mileage": 294617,
+        "price": 69298.89
+    },
+    {
+        "make": "Murphy, Whitaker and Fuller",
+        "model": "Prepare",
+        "year": 2009,
+        "vin": "DHYBAOXIHU4JQGJ8G",
+        "color": "DarkOrange",
+        "mileage": 253506,
+        "price": 67704.5
+    },
+    {
+        "make": "Santiago PLC",
+        "model": "Surface",
+        "year": 1991,
+        "vin": "UBMF9SXEH3M6MIAUD",
+        "color": "Turquoise",
+        "mileage": 220273,
+        "price": 62463.52
+    },
+    {
+        "make": "Wallace LLC",
+        "model": "Month",
+        "year": 2020,
+        "vin": "6KI7EYJTHPGLZZSSE",
+        "color": "Silver",
+        "mileage": 1956,
+        "price": 62579.6
+    },
+    {
+        "make": "Vincent, Sanchez and Ware",
+        "model": "May",
+        "year": 2006,
+        "vin": "NHIHY6QE2N0XGG2KA",
+        "color": "DarkSlateGray",
+        "mileage": 102812,
+        "price": 62984.79
+    },
+    {
+        "make": "Martinez, Cox and Rice",
+        "model": "Decade",
+        "year": 1999,
+        "vin": "RXTURZLZIASE2LUQ3",
+        "color": "DarkGreen",
+        "mileage": 30784,
+        "price": 22816.52
+    },
+    {
+        "make": "Smith, Campos and Johnson",
+        "model": "Idea",
+        "year": 1995,
+        "vin": "GVOYOBXTCEY84QHCS",
+        "color": "LightSlateGray",
+        "mileage": 125637,
+        "price": 40086.8
+    },
+    {
+        "make": "Schmidt-Harrison",
+        "model": "Nearly",
+        "year": 1999,
+        "vin": "GOJDELDOG3K7MCKFN",
+        "color": "LightCyan",
+        "mileage": 150764,
+        "price": 25969.94
+    },
+    {
+        "make": "Wong, Williams and Dawson",
+        "model": "Push",
+        "year": 2011,
+        "vin": "1EI2VQYLWZDXYYSFL",
+        "color": "Chartreuse",
+        "mileage": 31552,
+        "price": 39626.44
+    },
+    {
+        "make": "Flores, Hernandez and Thomas",
+        "model": "Republican",
+        "year": 2014,
+        "vin": "RLRFKKPK3VGJISBXZ",
+        "color": "Tan",
+        "mileage": 289609,
+        "price": 57412.22
+    },
+    {
+        "make": "Chan, Medina and Nelson",
+        "model": "True",
+        "year": 2022,
+        "vin": "ENTO7SJYIGOPWDW0M",
+        "color": "IndianRed",
+        "mileage": 75825,
+        "price": 69900.57
+    },
+    {
+        "make": "Parks LLC",
+        "model": "Job",
+        "year": 2007,
+        "vin": "7FU1GXQQMLYHTILNZ",
+        "color": "Green",
+        "mileage": 276364,
+        "price": 66767.03
+    },
+    {
+        "make": "Owen, Castaneda and Burgess",
+        "model": "Order",
+        "year": 2014,
+        "vin": "9R26JRLGJCBPBVLUL",
+        "color": "LightCoral",
+        "mileage": 153177,
+        "price": 44931.94
+    },
+    {
+        "make": "Young, Ramsey and Valdez",
+        "model": "Work",
+        "year": 2003,
+        "vin": "QFSGOUXABIYTC5IEP",
+        "color": "SlateGray",
+        "mileage": 138588,
+        "price": 69469.28
+    },
+    {
+        "make": "Crawford, Santos and Jackson",
+        "model": "Office",
+        "year": 2024,
+        "vin": "LXMRKX00B3CA9HBPV",
+        "color": "NavajoWhite",
+        "mileage": 297095,
+        "price": 23002.1
+    },
+    {
+        "make": "Jones-Greene",
+        "model": "Politics",
+        "year": 1994,
+        "vin": "H9D5DYCGF4JM3I9DW",
+        "color": "OldLace",
+        "mileage": 15812,
+        "price": 55062.86
+    },
+    {
+        "make": "Li Ltd",
+        "model": "Reality",
+        "year": 2004,
+        "vin": "DGNDNMMJPRN47K6R1",
+        "color": "PowderBlue",
+        "mileage": 174778,
+        "price": 48213.83
+    },
+    {
+        "make": "Newman, Wilcox and Welch",
+        "model": "Cause",
+        "year": 1994,
+        "vin": "5IIDCZNZ3NW0MQGYU",
+        "color": "LightSeaGreen",
+        "mileage": 2596,
+        "price": 65491.29
+    },
+    {
+        "make": "Wagner, Decker and Schroeder",
+        "model": "Any",
+        "year": 2016,
+        "vin": "EADOPZ6BVFZGXOAH2",
+        "color": "MediumTurquoise",
+        "mileage": 255901,
+        "price": 7688.28
+    },
+    {
+        "make": "Jones-Bush",
+        "model": "Better",
+        "year": 2016,
+        "vin": "U1PHFYTNUKZZI43LZ",
+        "color": "LightSteelBlue",
+        "mileage": 230320,
+        "price": 45445.11
+    },
+    {
+        "make": "Warren Group",
+        "model": "Affect",
+        "year": 2004,
+        "vin": "YKBLBGLTAFTA8NDOU",
+        "color": "Linen",
+        "mileage": 81885,
+        "price": 28401.8
+    },
+    {
+        "make": "Dean-Martinez",
+        "model": "Artist",
+        "year": 2023,
+        "vin": "YUDWQZHHHRPY5IN2P",
+        "color": "Lavender",
+        "mileage": 164110,
+        "price": 57400.38
+    },
+    {
+        "make": "Bass Ltd",
+        "model": "Maybe",
+        "year": 2010,
+        "vin": "RYCJHV6ZZPXJJKWME",
+        "color": "LightCoral",
+        "mileage": 121971,
+        "price": 12040.7
+    },
+    {
+        "make": "Vargas-Wilson",
+        "model": "Treat",
+        "year": 2013,
+        "vin": "NPNIGKUSBCSUTM5MI",
+        "color": "MediumSlateBlue",
+        "mileage": 188280,
+        "price": 18538.49
+    },
+    {
+        "make": "Sanchez Inc",
+        "model": "Success",
+        "year": 2009,
+        "vin": "FUOERUZVLBRJDPQYO",
+        "color": "Chartreuse",
+        "mileage": 31022,
+        "price": 50747.32
+    },
+    {
+        "make": "Reed Inc",
+        "model": "Matter",
+        "year": 1993,
+        "vin": "QYEMBOYZJLG5WWHDN",
+        "color": "Orchid",
+        "mileage": 45517,
+        "price": 17657.75
+    },
+    {
+        "make": "Holloway PLC",
+        "model": "Teacher",
+        "year": 2016,
+        "vin": "UAD7ATIJYK7HFZBT4",
+        "color": "MediumPurple",
+        "mileage": 1705,
+        "price": 25674.73
+    },
+    {
+        "make": "Hunter-Lee",
+        "model": "Some",
+        "year": 2018,
+        "vin": "C05X6ZW2PUMK3PZ7P",
+        "color": "DarkKhaki",
+        "mileage": 44092,
+        "price": 36287.79
+    },
+    {
+        "make": "Pruitt Group",
+        "model": "Quickly",
+        "year": 2015,
+        "vin": "FSJCZXHUP50NKZRBD",
+        "color": "MediumSlateBlue",
+        "mileage": 50069,
+        "price": 41314.54
+    },
+    {
+        "make": "Arnold and Sons",
+        "model": "Wish",
+        "year": 1997,
+        "vin": "6X4FRSHHN21Q9XMCE",
+        "color": "DarkTurquoise",
+        "mileage": 203778,
+        "price": 44440.11
+    },
+    {
+        "make": "Martinez, Sullivan and Blair",
+        "model": "Wait",
+        "year": 1999,
+        "vin": "HQBBIFTKEHOOAAQV7",
+        "color": "Orange",
+        "mileage": 46460,
+        "price": 27333.64
+    },
+    {
+        "make": "Cole Group",
+        "model": "Majority",
+        "year": 2009,
+        "vin": "OURTRDNY03CFNCUWB",
+        "color": "SeaShell",
+        "mileage": 20371,
+        "price": 63386.52
+    },
+    {
+        "make": "Harris Group",
+        "model": "Center",
+        "year": 2022,
+        "vin": "OGOWYBKKK9QSCDVHW",
+        "color": "SteelBlue",
+        "mileage": 292520,
+        "price": 16353.35
+    },
+    {
+        "make": "Cummings-Gray",
+        "model": "Method",
+        "year": 1991,
+        "vin": "68NNRVFHCP6614VIM",
+        "color": "Blue",
+        "mileage": 239515,
+        "price": 24221.66
+    },
+    {
+        "make": "Rivera PLC",
+        "model": "Type",
+        "year": 2008,
+        "vin": "0UZ2DQRVSELWOHMK3",
+        "color": "Ivory",
+        "mileage": 130009,
+        "price": 69125.74
+    },
+    {
+        "make": "Reed PLC",
+        "model": "Night",
+        "year": 2021,
+        "vin": "JIKNF1ERPC3KDG2B3",
+        "color": "Brown",
+        "mileage": 87837,
+        "price": 45406.8
+    },
+    {
+        "make": "Davis Inc",
+        "model": "Your",
+        "year": 2024,
+        "vin": "GVUUVP4OKU52TXWCO",
+        "color": "Magenta",
+        "mileage": 55104,
+        "price": 35825.8
+    },
+    {
+        "make": "Li, Lester and Jones",
+        "model": "Provide",
+        "year": 2007,
+        "vin": "KYTSYYA7B7DQBVO9A",
+        "color": "MistyRose",
+        "mileage": 85808,
+        "price": 62105.95
+    },
+    {
+        "make": "Woodard, Wallace and Hanson",
+        "model": "Medical",
+        "year": 1997,
+        "vin": "3CLNXQ2NZ6YFCWIIJ",
+        "color": "DarkGreen",
+        "mileage": 128172,
+        "price": 34616.95
+    },
+    {
+        "make": "Mcfarland-Stewart",
+        "model": "Several",
+        "year": 2018,
+        "vin": "EEE7QEQD48BDD2BYM",
+        "color": "RosyBrown",
+        "mileage": 22359,
+        "price": 39426.29
+    },
+    {
+        "make": "Becker-Forbes",
+        "model": "Soldier",
+        "year": 2021,
+        "vin": "Z8B9HJIK6VNDIYXRM",
+        "color": "MediumVioletRed",
+        "mileage": 20637,
+        "price": 8249.52
+    },
+    {
+        "make": "Luna-Green",
+        "model": "Speech",
+        "year": 1991,
+        "vin": "D2GFH3NP4FSYNKVCE",
+        "color": "BlanchedAlmond",
+        "mileage": 279229,
+        "price": 56776.12
+    },
+    {
+        "make": "Lynch-Mcgee",
+        "model": "Watch",
+        "year": 2006,
+        "vin": "NNWSHCA6D9VVIQRWI",
+        "color": "LightYellow",
+        "mileage": 127785,
+        "price": 18517.83
+    },
+    {
+        "make": "Sanchez-Taylor",
+        "model": "Cup",
+        "year": 2024,
+        "vin": "XSEJXJKHJJBMQRHMW",
+        "color": "Beige",
+        "mileage": 224114,
+        "price": 36210.23
+    },
+    {
+        "make": "Chang-Coleman",
+        "model": "Sell",
+        "year": 1996,
+        "vin": "V6QOMWC2YDVC8B1F8",
+        "color": "DarkOliveGreen",
+        "mileage": 239078,
+        "price": 31860.73
+    },
+    {
+        "make": "Gill-Avery",
+        "model": "Too",
+        "year": 2018,
+        "vin": "P0FGK7GHIX713SPOP",
+        "color": "PaleTurquoise",
+        "mileage": 162504,
+        "price": 42534.88
+    },
+    {
+        "make": "Lam, Johnson and Glover",
+        "model": "Station",
+        "year": 1997,
+        "vin": "WQYVCWRCD9EBAV8XI",
+        "color": "CadetBlue",
+        "mileage": 147689,
+        "price": 56970.78
+    },
+    {
+        "make": "Harmon, Wright and Newman",
+        "model": "Hope",
+        "year": 2020,
+        "vin": "0UWBZAD5HNJVQHARK",
+        "color": "DarkBlue",
+        "mileage": 142057,
+        "price": 6858.72
+    },
+    {
+        "make": "Barrett, Nielsen and Willis",
+        "model": "What",
+        "year": 2014,
+        "vin": "L4T8HHDNPEHG88QU8",
+        "color": "DarkMagenta",
+        "mileage": 91961,
+        "price": 25366.62
+    },
+    {
+        "make": "Lynn, Taylor and Bryant",
+        "model": "Owner",
+        "year": 1997,
+        "vin": "3TFTHGJV26UYMYDMP",
+        "color": "GreenYellow",
+        "mileage": 260872,
+        "price": 49323.34
+    },
+    {
+        "make": "Mendoza and Sons",
+        "model": "Perhaps",
+        "year": 1997,
+        "vin": "BHI9QD0YRL5GNGJTO",
+        "color": "MediumBlue",
+        "mileage": 96934,
+        "price": 63179.12
+    },
+    {
+        "make": "Harrison and Sons",
+        "model": "Claim",
+        "year": 1994,
+        "vin": "ZNT0RASI4FKTL2PCZ",
+        "color": "LightYellow",
+        "mileage": 114713,
+        "price": 50877.94
+    },
+    {
+        "make": "Wagner, Lowe and Scott",
+        "model": "Much",
+        "year": 2001,
+        "vin": "NU3ALCWZZHB9KT39Z",
+        "color": "SlateBlue",
+        "mileage": 3981,
+        "price": 68092.73
+    },
+    {
+        "make": "Rubio, Pitts and Rogers",
+        "model": "Be",
+        "year": 1993,
+        "vin": "PLRNE3QPCW4NGPYUC",
+        "color": "MediumSpringGreen",
+        "mileage": 156892,
+        "price": 68185.92
+    },
+    {
+        "make": "Rodriguez Inc",
+        "model": "In",
+        "year": 2001,
+        "vin": "GEZ7GM5XYPLUV3WUB",
+        "color": "Blue",
+        "mileage": 3513,
+        "price": 38376.54
+    },
+    {
+        "make": "Garcia-Wu",
+        "model": "He",
+        "year": 2022,
+        "vin": "FCRZDZYX3UIWMFKI9",
+        "color": "MediumAquaMarine",
+        "mileage": 257075,
+        "price": 48588.69
+    },
+    {
+        "make": "Castaneda-Johnson",
+        "model": "Adult",
+        "year": 2003,
+        "vin": "R1LWEXXBDOXTGRUU9",
+        "color": "MediumSpringGreen",
+        "mileage": 251575,
+        "price": 65184.1
+    },
+    {
+        "make": "Bartlett PLC",
+        "model": "Woman",
+        "year": 2020,
+        "vin": "8QITNWXF0XNKISNAK",
+        "color": "PaleGoldenRod",
+        "mileage": 96385,
+        "price": 65397.72
+    },
+    {
+        "make": "Hahn and Sons",
+        "model": "Whom",
+        "year": 2017,
+        "vin": "ZAWBS9KL7FBDQGFQZ",
+        "color": "Navy",
+        "mileage": 74708,
+        "price": 49412.46
+    },
+    {
+        "make": "Edwards, Summers and Armstrong",
+        "model": "Activity",
+        "year": 2009,
+        "vin": "GMIJCHEWOZFNMJ1VJ",
+        "color": "DarkOrange",
+        "mileage": 17538,
+        "price": 24997.62
+    },
+    {
+        "make": "Strickland-Cook",
+        "model": "Almost",
+        "year": 2012,
+        "vin": "CZM9CDHTVVRLITW8Z",
+        "color": "DarkGray",
+        "mileage": 235961,
+        "price": 65601.27
+    },
+    {
+        "make": "Allen, Trujillo and Boyle",
+        "model": "Treatment",
+        "year": 1994,
+        "vin": "NVJIX9MA5NFZ95YNO",
+        "color": "DodgerBlue",
+        "mileage": 142346,
+        "price": 41412.0
+    },
+    {
+        "make": "Hardin, Hamilton and Williams",
+        "model": "Conference",
+        "year": 2004,
+        "vin": "Q0JYJJKDYFUEPFXJ9",
+        "color": "Aquamarine",
+        "mileage": 27617,
+        "price": 19041.95
+    },
+    {
+        "make": "Diaz-Perry",
+        "model": "Claim",
+        "year": 2024,
+        "vin": "AZNCW3DRLKP0RMCWH",
+        "color": "SaddleBrown",
+        "mileage": 87624,
+        "price": 37015.67
+    },
+    {
+        "make": "Johnson-Berry",
+        "model": "For",
+        "year": 2008,
+        "vin": "SRW3NTXZPGKAIDGGW",
+        "color": "Gold",
+        "mileage": 92388,
+        "price": 9127.29
+    },
+    {
+        "make": "Romero LLC",
+        "model": "Member",
+        "year": 2011,
+        "vin": "TDUMM6LPK0ZVIWCCN",
+        "color": "Thistle",
+        "mileage": 261639,
+        "price": 60999.5
+    },
+    {
+        "make": "Torres-Dickerson",
+        "model": "Try",
+        "year": 2008,
+        "vin": "NHMNK9PDDIYFDYASK",
+        "color": "LemonChiffon",
+        "mileage": 77545,
+        "price": 35352.15
+    },
+    {
+        "make": "Roberson, Flores and Thomas",
+        "model": "Toward",
+        "year": 2000,
+        "vin": "C3TQWQ0KVLIDR2QVM",
+        "color": "DarkGoldenRod",
+        "mileage": 253090,
+        "price": 14366.18
+    },
+    {
+        "make": "Walker-Rodriguez",
+        "model": "Born",
+        "year": 2002,
+        "vin": "LNITSFWNP302BLVND",
+        "color": "Wheat",
+        "mileage": 41303,
+        "price": 67576.7
+    },
+    {
+        "make": "Holland, Torres and Gonzalez",
+        "model": "Likely",
+        "year": 2005,
+        "vin": "SBZLNA6UERWF8TS1Z",
+        "color": "FloralWhite",
+        "mileage": 29182,
+        "price": 41665.28
+    },
+    {
+        "make": "Paul, Smith and Bradley",
+        "model": "Late",
+        "year": 2006,
+        "vin": "GV4OOGGJB14IUQELH",
+        "color": "MediumPurple",
+        "mileage": 70958,
+        "price": 26916.78
+    },
+    {
+        "make": "Ingram-Martinez",
+        "model": "Something",
+        "year": 1995,
+        "vin": "WE2WYLL4SB5L8EAF6",
+        "color": "DarkRed",
+        "mileage": 125274,
+        "price": 8482.01
+    },
+    {
+        "make": "Hamilton, Powell and Rice",
+        "model": "Course",
+        "year": 2008,
+        "vin": "PTSZTYELXXF0ML5XW",
+        "color": "MediumVioletRed",
+        "mileage": 197851,
+        "price": 35878.97
+    },
+    {
+        "make": "Welch-Rodriguez",
+        "model": "Mission",
+        "year": 2012,
+        "vin": "O4PCBOQQB5MF2SKEW",
+        "color": "PowderBlue",
+        "mileage": 18709,
+        "price": 25904.74
+    },
+    {
+        "make": "Barnes, Dunn and Bailey",
+        "model": "Act",
+        "year": 2003,
+        "vin": "HA4HVYERKDUCHLIES",
+        "color": "PaleTurquoise",
+        "mileage": 266778,
+        "price": 43568.88
+    },
+    {
+        "make": "Mclaughlin-Curry",
+        "model": "Million",
+        "year": 2002,
+        "vin": "MVXZDVAL7E0UI9GHH",
+        "color": "Cyan",
+        "mileage": 238917,
+        "price": 8818.13
+    },
+    {
+        "make": "Jimenez, Walton and Kennedy",
+        "model": "Pass",
+        "year": 1999,
+        "vin": "JBSKIADS2M0FBKEOG",
+        "color": "DeepSkyBlue",
+        "mileage": 112399,
+        "price": 19846.32
+    },
+    {
+        "make": "Wilson, Taylor and Hines",
+        "model": "Still",
+        "year": 2009,
+        "vin": "Q4IWUNAT8WIYXZWGT",
+        "color": "Aquamarine",
+        "mileage": 26342,
+        "price": 65649.95
+    },
+    {
+        "make": "Zamora, Sandoval and Taylor",
+        "model": "Source",
+        "year": 1991,
+        "vin": "HO2TANEN0QE21GDRI",
+        "color": "MediumVioletRed",
+        "mileage": 140887,
+        "price": 35882.97
+    },
+    {
+        "make": "Martin-Thompson",
+        "model": "Common",
+        "year": 1993,
+        "vin": "PECWVFPFWLUAVKN83",
+        "color": "DarkOrange",
+        "mileage": 80307,
+        "price": 54548.54
+    },
+    {
+        "make": "Gould, Schroeder and Gamble",
+        "model": "Nation",
+        "year": 2024,
+        "vin": "4JCK0ACBR7ELTBYBZ",
+        "color": "DarkGray",
+        "mileage": 202100,
+        "price": 56842.84
+    },
+    {
+        "make": "Rogers-Guerra",
+        "model": "Such",
+        "year": 2020,
+        "vin": "NJPCYZAZ3KP1BJAJZ",
+        "color": "Gold",
+        "mileage": 243071,
+        "price": 11989.12
+    },
+    {
+        "make": "Hendricks, Flores and Myers",
+        "model": "Site",
+        "year": 1993,
+        "vin": "NWXWRG7GPM1TF4NNM",
+        "color": "Plum",
+        "mileage": 276170,
+        "price": 36110.54
+    },
+    {
+        "make": "Tran-Murphy",
+        "model": "Full",
+        "year": 2003,
+        "vin": "WHZ9V3WBLEMV6XXTM",
+        "color": "Khaki",
+        "mileage": 149534,
+        "price": 68487.74
+    },
+    {
+        "make": "Wagner-Morgan",
+        "model": "Assume",
+        "year": 1990,
+        "vin": "9L8THGCY3ESL8C4SV",
+        "color": "DarkSlateBlue",
+        "mileage": 37634,
+        "price": 7775.58
+    },
+    {
+        "make": "Harrington, Thomas and Wood",
+        "model": "Culture",
+        "year": 2021,
+        "vin": "DINGMUHAQB2EOCRMI",
+        "color": "MediumPurple",
+        "mileage": 269395,
+        "price": 35054.35
+    },
+    {
+        "make": "Jones, Thomas and Glover",
+        "model": "Event",
+        "year": 2001,
+        "vin": "1PBWAE1XWRJ8VY0UJ",
+        "color": "SteelBlue",
+        "mileage": 40201,
+        "price": 60360.08
+    },
+    {
+        "make": "Harrington LLC",
+        "model": "One",
+        "year": 1996,
+        "vin": "FNCPIURX0NQFRM6A7",
+        "color": "MistyRose",
+        "mileage": 170380,
+        "price": 33290.4
+    },
+    {
+        "make": "Everett-Rich",
+        "model": "Usually",
+        "year": 2013,
+        "vin": "DZ04O9BGWY8GP2AKR",
+        "color": "YellowGreen",
+        "mileage": 231247,
+        "price": 14550.14
+    },
+    {
+        "make": "Bailey-Frazier",
+        "model": "Spend",
+        "year": 1992,
+        "vin": "BLAKIHBXXSISXSLAQ",
+        "color": "LavenderBlush",
+        "mileage": 164232,
+        "price": 14293.82
+    },
+    {
+        "make": "Jacobs LLC",
+        "model": "Win",
+        "year": 1999,
+        "vin": "TRFGV1LB9EO6RPRUK",
+        "color": "Brown",
+        "mileage": 73480,
+        "price": 49209.79
+    },
+    {
+        "make": "Richard, Ramos and Stephens",
+        "model": "Week",
+        "year": 2003,
+        "vin": "YTFMMY0ADNJXVEOWN",
+        "color": "LawnGreen",
+        "mileage": 30687,
+        "price": 6877.87
+    },
+    {
+        "make": "Brown and Sons",
+        "model": "Change",
+        "year": 1990,
+        "vin": "2XM9DW1ZT9PENDLLU",
+        "color": "Navy",
+        "mileage": 43052,
+        "price": 30625.35
+    },
+    {
+        "make": "White, Malone and Marshall",
+        "model": "Decide",
+        "year": 2000,
+        "vin": "NEMCEU86OON2T3XAG",
+        "color": "AntiqueWhite",
+        "mileage": 30426,
+        "price": 26993.17
+    },
+    {
+        "make": "Ballard, Ferrell and Lee",
+        "model": "Role",
+        "year": 2023,
+        "vin": "GL7B8ZEUCQZPOKY3R",
+        "color": "Gray",
+        "mileage": 194798,
+        "price": 17387.27
+    },
+    {
+        "make": "Jones Ltd",
+        "model": "Court",
+        "year": 2013,
+        "vin": "ATSGXIEMUX3Q7O4KS",
+        "color": "Indigo",
+        "mileage": 208272,
+        "price": 19878.26
+    },
+    {
+        "make": "Porter, Rios and Craig",
+        "model": "Over",
+        "year": 2013,
+        "vin": "YMOHPMLO8D1QQPJST",
+        "color": "LemonChiffon",
+        "mileage": 242501,
+        "price": 36831.36
+    },
+    {
+        "make": "Martinez LLC",
+        "model": "Maybe",
+        "year": 1994,
+        "vin": "AYASYG51MATGSC0S3",
+        "color": "BlanchedAlmond",
+        "mileage": 87382,
+        "price": 15946.43
+    },
+    {
+        "make": "Calderon and Sons",
+        "model": "Enjoy",
+        "year": 1991,
+        "vin": "Z1WSM737LLLSR2Y5A",
+        "color": "Bisque",
+        "mileage": 27685,
+        "price": 34585.27
+    },
+    {
+        "make": "Russell and Sons",
+        "model": "Ask",
+        "year": 2015,
+        "vin": "UYWURXE9KBGFTJJXG",
+        "color": "Peru",
+        "mileage": 139644,
+        "price": 58852.28
+    },
+    {
+        "make": "Brown, Conley and Williams",
+        "model": "Manage",
+        "year": 1996,
+        "vin": "VLUQGAC7P7H5WZLM5",
+        "color": "MediumSeaGreen",
+        "mileage": 116422,
+        "price": 35402.5
+    },
+    {
+        "make": "Thompson, Ferguson and Bender",
+        "model": "Company",
+        "year": 2014,
+        "vin": "LSMH8P8PXSM7HOA8I",
+        "color": "Gray",
+        "mileage": 183581,
+        "price": 69515.81
+    },
+    {
+        "make": "Hodges Inc",
+        "model": "A",
+        "year": 1996,
+        "vin": "UTOCAOZGN4NYHDGJX",
+        "color": "DarkRed",
+        "mileage": 248841,
+        "price": 15486.75
+    },
+    {
+        "make": "Adams-Martinez",
+        "model": "Focus",
+        "year": 2021,
+        "vin": "QZ1LNPTMNVGIVTLBH",
+        "color": "LightBlue",
+        "mileage": 126242,
+        "price": 55450.44
+    },
+    {
+        "make": "Cobb LLC",
+        "model": "Time",
+        "year": 2016,
+        "vin": "J408OXMKPTREREBGW",
+        "color": "Thistle",
+        "mileage": 180677,
+        "price": 13061.72
+    },
+    {
+        "make": "Travis Ltd",
+        "model": "Eye",
+        "year": 1998,
+        "vin": "C6FD1BTTCVKURLHWQ",
+        "color": "Azure",
+        "mileage": 40899,
+        "price": 22871.55
+    },
+    {
+        "make": "Hart, Leonard and Carpenter",
+        "model": "Central",
+        "year": 2020,
+        "vin": "T7QQDYTZGDFFXQYNL",
+        "color": "MediumPurple",
+        "mileage": 132372,
+        "price": 47042.11
+    },
+    {
+        "make": "Lopez-Holmes",
+        "model": "Population",
+        "year": 2020,
+        "vin": "DVAF5CJ4CSTVZPGYI",
+        "color": "LightGray",
+        "mileage": 23184,
+        "price": 37002.61
+    },
+    {
+        "make": "Tucker PLC",
+        "model": "Sing",
+        "year": 2007,
+        "vin": "G3MYQAKR3UE4Q086C",
+        "color": "SlateGray",
+        "mileage": 78696,
+        "price": 12009.39
+    },
+    {
+        "make": "Zimmerman-Hatfield",
+        "model": "Senior",
+        "year": 1997,
+        "vin": "VQM1WZCO5KTMZINES",
+        "color": "YellowGreen",
+        "mileage": 297376,
+        "price": 54850.32
+    },
+    {
+        "make": "Griffin LLC",
+        "model": "Think",
+        "year": 2009,
+        "vin": "GLGRBAUB8NYLALBZL",
+        "color": "Orchid",
+        "mileage": 128536,
+        "price": 24061.93
+    },
+    {
+        "make": "Griffin-Martinez",
+        "model": "Season",
+        "year": 2020,
+        "vin": "4YGDZADKWGZYGHVLZ",
+        "color": "Black",
+        "mileage": 46692,
+        "price": 65264.37
+    },
+    {
+        "make": "Cannon, Taylor and Johnson",
+        "model": "Kitchen",
+        "year": 2015,
+        "vin": "Y2NGFDQGL4XYJPNCD",
+        "color": "Azure",
+        "mileage": 143622,
+        "price": 58622.28
+    },
+    {
+        "make": "Mcclain and Sons",
+        "model": "Many",
+        "year": 2005,
+        "vin": "ABDCTL54JSPUFESNW",
+        "color": "MistyRose",
+        "mileage": 37525,
+        "price": 57341.4
+    },
+    {
+        "make": "Carter PLC",
+        "model": "Deal",
+        "year": 2019,
+        "vin": "ZQQDO6B67JJNAQG2S",
+        "color": "DarkGoldenRod",
+        "mileage": 99793,
+        "price": 33270.75
+    },
+    {
+        "make": "Anderson Group",
+        "model": "East",
+        "year": 2000,
+        "vin": "FJY95ZPJIAUPNKD7B",
+        "color": "DarkSlateBlue",
+        "mileage": 296252,
+        "price": 44979.65
+    },
+    {
+        "make": "Richards PLC",
+        "model": "Necessary",
+        "year": 1999,
+        "vin": "LDAJFARR7H39WMU9J",
+        "color": "Violet",
+        "mileage": 28821,
+        "price": 55743.31
+    },
+    {
+        "make": "Carr, Robbins and Anderson",
+        "model": "Bar",
+        "year": 2007,
+        "vin": "6JQBNKSLOVTMVO5FP",
+        "color": "OliveDrab",
+        "mileage": 1737,
+        "price": 68976.91
+    },
+    {
+        "make": "Davis-Goodwin",
+        "model": "Though",
+        "year": 2006,
+        "vin": "DKRCZWI43N3GGXSZN",
+        "color": "AliceBlue",
+        "mileage": 22508,
+        "price": 33512.86
+    },
+    {
+        "make": "Schultz-Shea",
+        "model": "Marriage",
+        "year": 2021,
+        "vin": "9WYE3CBQ9QN87Y9TG",
+        "color": "LightYellow",
+        "mileage": 99088,
+        "price": 5073.12
+    },
+    {
+        "make": "Weber PLC",
+        "model": "Place",
+        "year": 1991,
+        "vin": "QSFOZILWPBE8PFMOW",
+        "color": "Brown",
+        "mileage": 10819,
+        "price": 8547.25
+    },
+    {
+        "make": "Snyder PLC",
+        "model": "Audience",
+        "year": 2023,
+        "vin": "XDMSMNIQG2LA7KSAX",
+        "color": "Cornsilk",
+        "mileage": 200031,
+        "price": 65519.64
+    },
+    {
+        "make": "Perez LLC",
+        "model": "Stand",
+        "year": 2008,
+        "vin": "H8GJU2ADECNCDLUGF",
+        "color": "White",
+        "mileage": 284814,
+        "price": 61425.16
+    },
+    {
+        "make": "Graves-Bradley",
+        "model": "Mother",
+        "year": 2017,
+        "vin": "04AGIRQQ2NQAORPTG",
+        "color": "DarkGreen",
+        "mileage": 241868,
+        "price": 9750.0
+    },
+    {
+        "make": "Castillo, Moore and Ellis",
+        "model": "Movement",
+        "year": 2002,
+        "vin": "LOPMGHMFATPYO4PWN",
+        "color": "LightGoldenRodYellow",
+        "mileage": 14850,
+        "price": 33559.11
+    },
+    {
+        "make": "Smith-Shannon",
+        "model": "Skin",
+        "year": 2020,
+        "vin": "RAOCBNLBFVHFCNF1W",
+        "color": "Red",
+        "mileage": 74652,
+        "price": 13999.33
+    },
+    {
+        "make": "Flores-Andersen",
+        "model": "Two",
+        "year": 2009,
+        "vin": "6MHSMR1EPDMQDXTHN",
+        "color": "CornflowerBlue",
+        "mileage": 89548,
+        "price": 64856.97
+    },
+    {
+        "make": "Wise, Rice and Williamson",
+        "model": "Wrong",
+        "year": 2016,
+        "vin": "ZALVBE3UY5FEHL1U6",
+        "color": "AliceBlue",
+        "mileage": 192065,
+        "price": 43839.03
+    },
+    {
+        "make": "Barnett and Sons",
+        "model": "Difference",
+        "year": 2002,
+        "vin": "KDIS04RVVVPK9VEVI",
+        "color": "Pink",
+        "mileage": 290023,
+        "price": 60522.13
+    },
+    {
+        "make": "Mcdonald-Le",
+        "model": "Line",
+        "year": 2020,
+        "vin": "TCOWSJQLZPN1A68EG",
+        "color": "AliceBlue",
+        "mileage": 8017,
+        "price": 32268.31
+    },
+    {
+        "make": "Hahn-Singleton",
+        "model": "Last",
+        "year": 2006,
+        "vin": "D0ZDHDDNAZGA7TNRW",
+        "color": "Aqua",
+        "mileage": 49542,
+        "price": 12091.05
+    },
+    {
+        "make": "Alexander and Sons",
+        "model": "Return",
+        "year": 1998,
+        "vin": "NCSOUWRW3LMZLUBEA",
+        "color": "SkyBlue",
+        "mileage": 15335,
+        "price": 28804.95
+    },
+    {
+        "make": "Ramirez LLC",
+        "model": "Benefit",
+        "year": 2014,
+        "vin": "AZRFQGXBJHNHRDWU1",
+        "color": "MediumVioletRed",
+        "mileage": 136443,
+        "price": 58172.49
+    },
+    {
+        "make": "Charles Inc",
+        "model": "Rather",
+        "year": 1997,
+        "vin": "CKP5PBTWQSVWHQ9O1",
+        "color": "Yellow",
+        "mileage": 196569,
+        "price": 21460.91
+    },
+    {
+        "make": "Becker-Swanson",
+        "model": "Particular",
+        "year": 2018,
+        "vin": "CDDFS2OEJUDDLAU4I",
+        "color": "DarkRed",
+        "mileage": 55616,
+        "price": 25757.33
+    },
+    {
+        "make": "Wade-Sanchez",
+        "model": "Audience",
+        "year": 2017,
+        "vin": "SFGUL5M0WCNYG4DQ8",
+        "color": "LemonChiffon",
+        "mileage": 299523,
+        "price": 69285.72
+    },
+    {
+        "make": "Hooper, Miller and Johns",
+        "model": "Charge",
+        "year": 1990,
+        "vin": "464SWFNVBLCDMNNQ7",
+        "color": "DarkOrange",
+        "mileage": 104884,
+        "price": 11258.09
+    },
+    {
+        "make": "Stevenson, Williams and Cooper",
+        "model": "Father",
+        "year": 2009,
+        "vin": "KZDKY57JUNU6NGGPG",
+        "color": "DeepPink",
+        "mileage": 92698,
+        "price": 50931.6
+    },
+    {
+        "make": "Long-Phillips",
+        "model": "Ask",
+        "year": 2000,
+        "vin": "GUHVIMHQO0GCRYOEZ",
+        "color": "LightCoral",
+        "mileage": 187468,
+        "price": 17464.4
+    },
+    {
+        "make": "Carroll, Washington and Hendricks",
+        "model": "Before",
+        "year": 1997,
+        "vin": "CZWZJROVWNZWKW01G",
+        "color": "DarkSeaGreen",
+        "mileage": 140273,
+        "price": 28395.91
+    },
+    {
+        "make": "Hurst-Pruitt",
+        "model": "Hit",
+        "year": 1993,
+        "vin": "UXIGHILJORJJBO9DX",
+        "color": "LightSlateGray",
+        "mileage": 79735,
+        "price": 49541.38
+    },
+    {
+        "make": "Santana-Mcpherson",
+        "model": "Anything",
+        "year": 1995,
+        "vin": "DHWIUNOPC16IT4WIY",
+        "color": "DarkBlue",
+        "mileage": 215048,
+        "price": 28344.55
+    },
+    {
+        "make": "Foster-Avila",
+        "model": "Commercial",
+        "year": 2022,
+        "vin": "WHOHAONM8FAR5DF9F",
+        "color": "HotPink",
+        "mileage": 98315,
+        "price": 65184.84
+    },
+    {
+        "make": "Franklin and Sons",
+        "model": "Laugh",
+        "year": 1991,
+        "vin": "JA90VZRZJCVYMJZBU",
+        "color": "Sienna",
+        "mileage": 136661,
+        "price": 21059.9
+    },
+    {
+        "make": "Fischer PLC",
+        "model": "Attention",
+        "year": 2015,
+        "vin": "YD9OIPBRPD46Z7JIN",
+        "color": "Pink",
+        "mileage": 100090,
+        "price": 58811.21
+    },
+    {
+        "make": "Jimenez, French and Hess",
+        "model": "Reason",
+        "year": 2006,
+        "vin": "PU6FTKYAPB9OZAXE4",
+        "color": "SlateGray",
+        "mileage": 267108,
+        "price": 67213.33
+    },
+    {
+        "make": "Brown-Allen",
+        "model": "Event",
+        "year": 2012,
+        "vin": "4XBVUKPTH8LRWMXP3",
+        "color": "FireBrick",
+        "mileage": 39236,
+        "price": 29255.16
+    },
+    {
+        "make": "Williams Inc",
+        "model": "Strategy",
+        "year": 1994,
+        "vin": "Y0DAUDZHBFMQ5OVYF",
+        "color": "SkyBlue",
+        "mileage": 90059,
+        "price": 11552.25
+    },
+    {
+        "make": "Zamora, Coleman and Farrell",
+        "model": "Million",
+        "year": 2021,
+        "vin": "QZZYC969W73QQ4ZNV",
+        "color": "PaleGoldenRod",
+        "mileage": 1697,
+        "price": 6101.78
+    },
+    {
+        "make": "Smith Group",
+        "model": "Public",
+        "year": 1993,
+        "vin": "52RBX5JVCLK9DC4NS",
+        "color": "Pink",
+        "mileage": 185267,
+        "price": 52955.4
+    },
+    {
+        "make": "Carr LLC",
+        "model": "Base",
+        "year": 2005,
+        "vin": "0MIXUE7PJBYDFD7IW",
+        "color": "LightGray",
+        "mileage": 186877,
+        "price": 69977.26
+    },
+    {
+        "make": "Harris-Williams",
+        "model": "Participant",
+        "year": 2008,
+        "vin": "GTOMIYAO6ILENZURS",
+        "color": "DarkOrange",
+        "mileage": 265209,
+        "price": 30288.93
+    },
+    {
+        "make": "Wilkerson-Sanchez",
+        "model": "Impact",
+        "year": 2007,
+        "vin": "TI5CXRKDHIOPAKXTO",
+        "color": "BurlyWood",
+        "mileage": 61863,
+        "price": 57672.99
+    },
+    {
+        "make": "Rogers-Castro",
+        "model": "Can",
+        "year": 2007,
+        "vin": "NV5OTSNZDYQSP04KM",
+        "color": "DarkOrchid",
+        "mileage": 4981,
+        "price": 62426.81
+    },
+    {
+        "make": "Duran, Brown and Jones",
+        "model": "Rich",
+        "year": 1999,
+        "vin": "9CWBPR4ZNJZYW9TFZ",
+        "color": "Yellow",
+        "mileage": 294569,
+        "price": 44787.21
+    },
+    {
+        "make": "Montoya-Warren",
+        "model": "Student",
+        "year": 1990,
+        "vin": "DRG7IL31CGUP8T253",
+        "color": "MediumSpringGreen",
+        "mileage": 64882,
+        "price": 16346.53
+    },
+    {
+        "make": "Hoffman, Daniels and Dyer",
+        "model": "Section",
+        "year": 2016,
+        "vin": "TZDTEFTTKCSKEN6Y7",
+        "color": "DarkBlue",
+        "mileage": 170878,
+        "price": 60554.09
+    },
+    {
+        "make": "Nguyen, Lee and Jones",
+        "model": "Attorney",
+        "year": 2015,
+        "vin": "KZZD0GPBCI5L7D217",
+        "color": "DarkSeaGreen",
+        "mileage": 94745,
+        "price": 12933.35
+    },
+    {
+        "make": "Mejia-Wilkerson",
+        "model": "Protect",
+        "year": 2015,
+        "vin": "UVSLPHNDILIHDTBA0",
+        "color": "Turquoise",
+        "mileage": 20452,
+        "price": 8177.37
+    },
+    {
+        "make": "Lee and Sons",
+        "model": "Education",
+        "year": 2023,
+        "vin": "5ZQDUEEV2SQPCLFTB",
+        "color": "Fuchsia",
+        "mileage": 283427,
+        "price": 33833.23
+    },
+    {
+        "make": "Douglas, Ashley and Wheeler",
+        "model": "Expert",
+        "year": 2002,
+        "vin": "2JOW6IUURRLEZUYSF",
+        "color": "Navy",
+        "mileage": 210256,
+        "price": 23887.28
+    },
+    {
+        "make": "Johnson, Riley and Curry",
+        "model": "Give",
+        "year": 1991,
+        "vin": "MMMZXMEFNYQ9KUUDT",
+        "color": "Aqua",
+        "mileage": 110476,
+        "price": 40559.27
+    },
+    {
+        "make": "Hampton Group",
+        "model": "Baby",
+        "year": 2020,
+        "vin": "6XYACGMAEM5RFJZAL",
+        "color": "DodgerBlue",
+        "mileage": 41799,
+        "price": 34021.96
+    },
+    {
+        "make": "Guerra, Tucker and Ball",
+        "model": "Truth",
+        "year": 2000,
+        "vin": "EONMSMD5HYUFGT3KZ",
+        "color": "GhostWhite",
+        "mileage": 46753,
+        "price": 6848.88
+    },
+    {
+        "make": "Weaver-Harper",
+        "model": "Although",
+        "year": 1993,
+        "vin": "XTTOPWXEFHBQV3A8E",
+        "color": "OrangeRed",
+        "mileage": 73955,
+        "price": 27367.06
+    },
+    {
+        "make": "Wallace Group",
+        "model": "With",
+        "year": 1999,
+        "vin": "JU3WYMCUAGSU7B0NH",
+        "color": "Purple",
+        "mileage": 249095,
+        "price": 36918.34
+    },
+    {
+        "make": "Castillo, Guerrero and Parker",
+        "model": "View",
+        "year": 2005,
+        "vin": "MAQK1GXWZXFINLYUS",
+        "color": "PowderBlue",
+        "mileage": 203372,
+        "price": 37528.72
+    },
+    {
+        "make": "Rangel, Adkins and Wilson",
+        "model": "Artist",
+        "year": 2009,
+        "vin": "RGFBGEWNQ0MIQ8TOA",
+        "color": "Cyan",
+        "mileage": 124203,
+        "price": 55093.58
+    },
+    {
+        "make": "Rice-Guerra",
+        "model": "Raise",
+        "year": 1995,
+        "vin": "V2EALWRCX8EF0EX09",
+        "color": "DarkRed",
+        "mileage": 48059,
+        "price": 17426.92
+    },
+    {
+        "make": "Harrison PLC",
+        "model": "Lead",
+        "year": 1990,
+        "vin": "FU6NWBDKFAAB6NEIE",
+        "color": "MediumSpringGreen",
+        "mileage": 130847,
+        "price": 29152.43
+    },
+    {
+        "make": "Hicks, Brown and Reid",
+        "model": "Thought",
+        "year": 2002,
+        "vin": "VWKMBTQJZ5FUETZTF",
+        "color": "Beige",
+        "mileage": 186589,
+        "price": 6678.41
+    },
+    {
+        "make": "Davis Inc",
+        "model": "Teacher",
+        "year": 2005,
+        "vin": "WQGMZFRP6YNT5OJNU",
+        "color": "HoneyDew",
+        "mileage": 96835,
+        "price": 40977.23
+    },
+    {
+        "make": "Bender Ltd",
+        "model": "Lay",
+        "year": 2016,
+        "vin": "MOWB7IUNN7O4HNRQ4",
+        "color": "Salmon",
+        "mileage": 93959,
+        "price": 49370.03
+    },
+    {
+        "make": "Casey-Richards",
+        "model": "Pass",
+        "year": 2017,
+        "vin": "JNZHGWLZB4YB4IXPG",
+        "color": "MediumTurquoise",
+        "mileage": 186146,
+        "price": 5073.07
+    },
+    {
+        "make": "Singh LLC",
+        "model": "Media",
+        "year": 2016,
+        "vin": "WMSISVKSQPL94I5EP",
+        "color": "LightGoldenRodYellow",
+        "mileage": 39474,
+        "price": 68788.02
+    },
+    {
+        "make": "Cline, Cox and Mendez",
+        "model": "Finish",
+        "year": 1991,
+        "vin": "GFWFLF1ZREEL0DWMO",
+        "color": "Moccasin",
+        "mileage": 67638,
+        "price": 5839.92
+    },
+    {
+        "make": "Ortiz, Miller and Dean",
+        "model": "Music",
+        "year": 1993,
+        "vin": "0NPKU8FQUXGSB3SAU",
+        "color": "WhiteSmoke",
+        "mileage": 25795,
+        "price": 33732.51
+    },
+    {
+        "make": "Oliver, Carr and Garcia",
+        "model": "Natural",
+        "year": 2004,
+        "vin": "UXHU6GJPIN5XC1E8W",
+        "color": "PaleTurquoise",
+        "mileage": 158190,
+        "price": 21444.06
+    },
+    {
+        "make": "Anderson-Beck",
+        "model": "Seem",
+        "year": 2021,
+        "vin": "S5Q6OFZT5LGZTFART",
+        "color": "LightGoldenRodYellow",
+        "mileage": 76115,
+        "price": 21723.58
+    },
+    {
+        "make": "Herrera and Sons",
+        "model": "Sport",
+        "year": 1993,
+        "vin": "IT9GR1A0SWN1XDGHN",
+        "color": "Sienna",
+        "mileage": 40747,
+        "price": 50190.95
+    },
+    {
+        "make": "Foster, Smith and Woods",
+        "model": "Anyone",
+        "year": 2010,
+        "vin": "TJPGRK4R8MBKB241J",
+        "color": "Thistle",
+        "mileage": 90296,
+        "price": 24496.88
+    },
+    {
+        "make": "Phillips-Miller",
+        "model": "While",
+        "year": 2021,
+        "vin": "PXFWNGVRYXKPC19BH",
+        "color": "Red",
+        "mileage": 105764,
+        "price": 18894.01
+    },
+    {
+        "make": "Franklin-Mccoy",
+        "model": "West",
+        "year": 1993,
+        "vin": "AAL8H9JDU69FYURKM",
+        "color": "MediumSpringGreen",
+        "mileage": 233132,
+        "price": 56325.08
+    },
+    {
+        "make": "Miller-Cervantes",
+        "model": "Along",
+        "year": 2005,
+        "vin": "YNPHI997GH5RS9GRU",
+        "color": "LightGreen",
+        "mileage": 159408,
+        "price": 69881.25
+    },
+    {
+        "make": "Mcmillan, Navarro and Jensen",
+        "model": "Interest",
+        "year": 1993,
+        "vin": "MKF6WSGV6S6CWH9SL",
+        "color": "SlateGray",
+        "mileage": 189865,
+        "price": 23746.76
+    },
+    {
+        "make": "Ortega Ltd",
+        "model": "Watch",
+        "year": 2011,
+        "vin": "8T02WC1DF4CFZZCOT",
+        "color": "MediumPurple",
+        "mileage": 82807,
+        "price": 51881.67
+    },
+    {
+        "make": "Johnson Ltd",
+        "model": "Manage",
+        "year": 2003,
+        "vin": "UXWZVZLEMGCVEGZH5",
+        "color": "Beige",
+        "mileage": 37326,
+        "price": 15885.87
+    },
+    {
+        "make": "Smith, Scott and Lee",
+        "model": "Rather",
+        "year": 2022,
+        "vin": "MUMVXBMFPX0SU3OSI",
+        "color": "Cyan",
+        "mileage": 177164,
+        "price": 55083.09
+    },
+    {
+        "make": "Bennett-Gray",
+        "model": "Like",
+        "year": 1998,
+        "vin": "CMQMCSKX22XUSIV6N",
+        "color": "SandyBrown",
+        "mileage": 113356,
+        "price": 6768.65
+    },
+    {
+        "make": "Higgins and Sons",
+        "model": "Road",
+        "year": 2023,
+        "vin": "RW6S8MSF4XEPQFI76",
+        "color": "ForestGreen",
+        "mileage": 134083,
+        "price": 48389.05
+    },
+    {
+        "make": "Gross-Glass",
+        "model": "Dog",
+        "year": 2001,
+        "vin": "4463PSGGXO9QPQCIP",
+        "color": "SlateBlue",
+        "mileage": 241947,
+        "price": 31540.45
+    },
+    {
+        "make": "Coleman-Peters",
+        "model": "Impact",
+        "year": 2021,
+        "vin": "8YX1ZLPDSW8SYP8NJ",
+        "color": "LightSeaGreen",
+        "mileage": 179783,
+        "price": 58248.11
+    },
+    {
+        "make": "Gomez-Mitchell",
+        "model": "Land",
+        "year": 1993,
+        "vin": "WDWXYFILPJGYRKHXN",
+        "color": "Green",
+        "mileage": 228767,
+        "price": 53978.72
+    },
+    {
+        "make": "Black, Lang and Henderson",
+        "model": "Key",
+        "year": 1991,
+        "vin": "KH4QYEVHOSG5ZP5TG",
+        "color": "Brown",
+        "mileage": 115560,
+        "price": 23854.45
+    },
+    {
+        "make": "Cox-Perry",
+        "model": "Than",
+        "year": 2007,
+        "vin": "WHZZ22VJIBMGWPXOM",
+        "color": "Peru",
+        "mileage": 197891,
+        "price": 23713.48
+    },
+    {
+        "make": "Rice PLC",
+        "model": "Wear",
+        "year": 2015,
+        "vin": "DVFHIAXDJ3FJ6GUSN",
+        "color": "DodgerBlue",
+        "mileage": 246760,
+        "price": 42844.71
+    },
+    {
+        "make": "Roberts-Dickerson",
+        "model": "He",
+        "year": 2016,
+        "vin": "ZTZVNXJT3ETS1E5S4",
+        "color": "PaleGreen",
+        "mileage": 256527,
+        "price": 36944.5
+    },
+    {
+        "make": "Harris, Johnson and Ruiz",
+        "model": "Area",
+        "year": 2003,
+        "vin": "21SEQK3WXWITEAPML",
+        "color": "MediumPurple",
+        "mileage": 154738,
+        "price": 67651.87
+    },
+    {
+        "make": "Sullivan, Walters and Harris",
+        "model": "There",
+        "year": 2024,
+        "vin": "9TNWC8VELWIPYD1F6",
+        "color": "PeachPuff",
+        "mileage": 242650,
+        "price": 32867.25
+    },
+    {
+        "make": "Walker-Sanders",
+        "model": "Painting",
+        "year": 2016,
+        "vin": "DSQMMWUSGFXBTZGJE",
+        "color": "Cornsilk",
+        "mileage": 71739,
+        "price": 35098.26
+    },
+    {
+        "make": "Mayer-Jones",
+        "model": "Pretty",
+        "year": 1990,
+        "vin": "WJNYK1SHD7JEN6M6Z",
+        "color": "Orchid",
+        "mileage": 91419,
+        "price": 15784.69
+    },
+    {
+        "make": "Hill Group",
+        "model": "Prepare",
+        "year": 2003,
+        "vin": "MMZNSUCOVORLNY8UB",
+        "color": "LavenderBlush",
+        "mileage": 57647,
+        "price": 19670.69
+    },
+    {
+        "make": "Rivera-Potts",
+        "model": "Able",
+        "year": 2009,
+        "vin": "ZSULFXJLQEQJQ4XZR",
+        "color": "Thistle",
+        "mileage": 206423,
+        "price": 63359.19
+    },
+    {
+        "make": "Coleman PLC",
+        "model": "Class",
+        "year": 2024,
+        "vin": "HOAB9UJ1KIPSQWLXX",
+        "color": "Khaki",
+        "mileage": 259959,
+        "price": 57180.66
+    },
+    {
+        "make": "Leach, Riley and Cowan",
+        "model": "Young",
+        "year": 2020,
+        "vin": "BVPWL5SXE4HED7RVP",
+        "color": "DarkMagenta",
+        "mileage": 131377,
+        "price": 30235.69
+    },
+    {
+        "make": "Gardner Group",
+        "model": "Already",
+        "year": 2000,
+        "vin": "ZYTFAIOZXNSEQ63TG",
+        "color": "DarkOrchid",
+        "mileage": 53292,
+        "price": 12814.6
+    },
+    {
+        "make": "Roman-Murray",
+        "model": "Business",
+        "year": 2024,
+        "vin": "8PMNHXYDBGJVAGBVC",
+        "color": "Salmon",
+        "mileage": 209790,
+        "price": 32641.36
+    },
+    {
+        "make": "Scott, Velez and Armstrong",
+        "model": "Natural",
+        "year": 2013,
+        "vin": "WCJIH9ACDF5KDWQ70",
+        "color": "MistyRose",
+        "mileage": 267130,
+        "price": 63636.61
+    },
+    {
+        "make": "Becker Group",
+        "model": "Civil",
+        "year": 2012,
+        "vin": "72OOSZNWANXEUDERN",
+        "color": "BlueViolet",
+        "mileage": 246510,
+        "price": 33578.46
+    },
+    {
+        "make": "White, King and Vasquez",
+        "model": "Role",
+        "year": 1999,
+        "vin": "OTSC8CSTES3GPZFCU",
+        "color": "Moccasin",
+        "mileage": 142282,
+        "price": 41077.72
+    },
+    {
+        "make": "Allen-Brown",
+        "model": "Score",
+        "year": 2007,
+        "vin": "J2W1HT09NL7RGPLP4",
+        "color": "LawnGreen",
+        "mileage": 267731,
+        "price": 10247.99
+    },
+    {
+        "make": "Perkins-Chambers",
+        "model": "Establish",
+        "year": 2024,
+        "vin": "ORGSECCXZZHFHNYQW",
+        "color": "White",
+        "mileage": 177102,
+        "price": 22222.07
+    },
+    {
+        "make": "Johnson PLC",
+        "model": "Suddenly",
+        "year": 2009,
+        "vin": "WOXTWPBOC9LMO0ZXF",
+        "color": "GreenYellow",
+        "mileage": 282889,
+        "price": 25791.18
+    },
+    {
+        "make": "Curtis-Knight",
+        "model": "No",
+        "year": 2009,
+        "vin": "A1TJZLL9NKQ3MLZK0",
+        "color": "MediumBlue",
+        "mileage": 142566,
+        "price": 24772.77
+    },
+    {
+        "make": "Larson-Jennings",
+        "model": "Finish",
+        "year": 2009,
+        "vin": "89R1DWXZMAQS6CMVX",
+        "color": "Cornsilk",
+        "mileage": 130272,
+        "price": 22359.96
+    },
+    {
+        "make": "Gibson, Moyer and Dawson",
+        "model": "Concern",
+        "year": 1990,
+        "vin": "QTFMZ62I4XAIJUODU",
+        "color": "SandyBrown",
+        "mileage": 126090,
+        "price": 60076.29
+    },
+    {
+        "make": "Mitchell Inc",
+        "model": "Hard",
+        "year": 2000,
+        "vin": "NDSKSV3OYKO8LWTSP",
+        "color": "Violet",
+        "mileage": 140796,
+        "price": 27287.87
+    },
+    {
+        "make": "Peterson PLC",
+        "model": "Lot",
+        "year": 2018,
+        "vin": "E2GZ3UONJSGH4OXFF",
+        "color": "DarkBlue",
+        "mileage": 290243,
+        "price": 64937.2
+    },
+    {
+        "make": "Obrien and Sons",
+        "model": "So",
+        "year": 1999,
+        "vin": "F7MM8RJH995XWMIGB",
+        "color": "DarkOliveGreen",
+        "mileage": 199168,
+        "price": 36554.73
+    },
+    {
+        "make": "Sullivan-Marks",
+        "model": "Respond",
+        "year": 1998,
+        "vin": "RS4MKRS2WZSIKDT3N",
+        "color": "LightCyan",
+        "mileage": 128731,
+        "price": 8304.8
+    },
+    {
+        "make": "Castro-Gentry",
+        "model": "Current",
+        "year": 2019,
+        "vin": "T5HDXJCN40HFHKZ66",
+        "color": "Teal",
+        "mileage": 29249,
+        "price": 63187.95
+    },
+    {
+        "make": "Abbott, Jenkins and Clark",
+        "model": "Share",
+        "year": 2008,
+        "vin": "MSNDORYFGFUX7FFAM",
+        "color": "Plum",
+        "mileage": 767,
+        "price": 58909.95
+    },
+    {
+        "make": "Lopez, Avila and Ford",
+        "model": "Again",
+        "year": 2024,
+        "vin": "YAYBG8EVRBYLB2HSL",
+        "color": "SpringGreen",
+        "mileage": 137635,
+        "price": 42229.23
+    },
+    {
+        "make": "Humphrey and Sons",
+        "model": "In",
+        "year": 2024,
+        "vin": "LUPD1JTOM2XCWUVD9",
+        "color": "LightSteelBlue",
+        "mileage": 84419,
+        "price": 34244.93
+    },
+    {
+        "make": "Adkins, Long and Rasmussen",
+        "model": "Tonight",
+        "year": 1997,
+        "vin": "T5XIS5WXZVHIWUSS8",
+        "color": "NavajoWhite",
+        "mileage": 179927,
+        "price": 36999.84
+    },
+    {
+        "make": "Edwards-Rivera",
+        "model": "Rather",
+        "year": 1999,
+        "vin": "QXDTEWEVCGUODUIPQ",
+        "color": "CadetBlue",
+        "mileage": 68996,
+        "price": 43747.83
+    },
+    {
+        "make": "Lang, Davis and Murphy",
+        "model": "Stand",
+        "year": 2013,
+        "vin": "J0FCYDT26HJC0DC8U",
+        "color": "MediumAquaMarine",
+        "mileage": 91836,
+        "price": 15701.48
+    },
+    {
+        "make": "Jones and Sons",
+        "model": "House",
+        "year": 2013,
+        "vin": "YCD6ZE7UZ71SOGXSN",
+        "color": "Plum",
+        "mileage": 223707,
+        "price": 10560.92
+    },
+    {
+        "make": "Aguilar-Scott",
+        "model": "Leader",
+        "year": 2007,
+        "vin": "2RXSM8PDYN5KFFI6S",
+        "color": "SandyBrown",
+        "mileage": 150791,
+        "price": 31338.2
+    },
+    {
+        "make": "Phillips, Orr and Valencia",
+        "model": "Allow",
+        "year": 2009,
+        "vin": "4LLPQEVSUINELLINQ",
+        "color": "MintCream",
+        "mileage": 228381,
+        "price": 59553.36
+    },
+    {
+        "make": "Smith LLC",
+        "model": "Table",
+        "year": 1991,
+        "vin": "QJBRRNMYIXALOFAZW",
+        "color": "DarkKhaki",
+        "mileage": 251938,
+        "price": 30149.2
+    },
+    {
+        "make": "Hansen Group",
+        "model": "Matter",
+        "year": 2010,
+        "vin": "I1XJLWZSFH9VCCSSN",
+        "color": "AliceBlue",
+        "mileage": 140705,
+        "price": 63623.08
+    },
+    {
+        "make": "Montgomery Inc",
+        "model": "Free",
+        "year": 1999,
+        "vin": "LBI7V3EWHXMLJYEWU",
+        "color": "BlueViolet",
+        "mileage": 158038,
+        "price": 9306.73
+    },
+    {
+        "make": "Flores, Walter and Olson",
+        "model": "Same",
+        "year": 1996,
+        "vin": "EQ7DQLDWWDCCPVH36",
+        "color": "Bisque",
+        "mileage": 99171,
+        "price": 14984.96
+    },
+    {
+        "make": "Reynolds-Nolan",
+        "model": "Training",
+        "year": 2011,
+        "vin": "OLDKFC68UHK22FCIK",
+        "color": "Snow",
+        "mileage": 152209,
+        "price": 46090.79
+    },
+    {
+        "make": "Burnett, Griffin and Lester",
+        "model": "At",
+        "year": 2004,
+        "vin": "ORHJMINMA1K5MN00E",
+        "color": "FloralWhite",
+        "mileage": 94330,
+        "price": 38644.59
+    },
+    {
+        "make": "Humphrey, Melendez and Mcgee",
+        "model": "Store",
+        "year": 2014,
+        "vin": "7OUO8KWHUF6AONV6V",
+        "color": "DeepPink",
+        "mileage": 158845,
+        "price": 53881.32
+    },
+    {
+        "make": "Ellis LLC",
+        "model": "Reduce",
+        "year": 2003,
+        "vin": "0ALQEGRVQVJ0IHSQU",
+        "color": "Moccasin",
+        "mileage": 256546,
+        "price": 54107.01
+    },
+    {
+        "make": "Ashley-Wilson",
+        "model": "Stop",
+        "year": 1996,
+        "vin": "XHD2T28F6MNTBZ6VC",
+        "color": "DarkViolet",
+        "mileage": 262588,
+        "price": 26508.95
+    },
+    {
+        "make": "Green Ltd",
+        "model": "No",
+        "year": 2009,
+        "vin": "OGCHEG5V5A0NHTAYF",
+        "color": "PaleVioletRed",
+        "mileage": 139349,
+        "price": 53090.15
+    },
+    {
+        "make": "Nelson, Butler and Vance",
+        "model": "Store",
+        "year": 2009,
+        "vin": "WZUIOJ90ZAHNIZBES",
+        "color": "GreenYellow",
+        "mileage": 263339,
+        "price": 13494.01
+    },
+    {
+        "make": "Moon, Barrera and Giles",
+        "model": "Seem",
+        "year": 2001,
+        "vin": "O87D8MMG2NBLIIGPE",
+        "color": "LightGoldenRodYellow",
+        "mileage": 88458,
+        "price": 18196.36
+    },
+    {
+        "make": "Brown, Sharp and Krueger",
+        "model": "Business",
+        "year": 1999,
+        "vin": "XDJPIYOXJOIDOUNAN",
+        "color": "LightYellow",
+        "mileage": 48346,
+        "price": 52787.67
+    },
+    {
+        "make": "Gutierrez, Roberts and Hart",
+        "model": "Relate",
+        "year": 1997,
+        "vin": "K9583SAHK10JSNHWN",
+        "color": "RoyalBlue",
+        "mileage": 6404,
+        "price": 19892.08
+    },
+    {
+        "make": "Hill Group",
+        "model": "Up",
+        "year": 2015,
+        "vin": "MLM7B6A3LSKUDERYM",
+        "color": "AntiqueWhite",
+        "mileage": 105158,
+        "price": 30652.04
+    },
+    {
+        "make": "Arroyo, Elliott and Schmidt",
+        "model": "Discover",
+        "year": 1996,
+        "vin": "07LMHKQBXABXJWZ6A",
+        "color": "DarkGray",
+        "mileage": 96738,
+        "price": 56976.28
+    },
+    {
+        "make": "Vargas, Hamilton and Thomas",
+        "model": "War",
+        "year": 2016,
+        "vin": "YGOPW6QSGDIMDJIJA",
+        "color": "DarkTurquoise",
+        "mileage": 224418,
+        "price": 9725.35
+    },
+    {
+        "make": "Dixon Ltd",
+        "model": "Any",
+        "year": 2020,
+        "vin": "CY1TYHD6SJR2DII39",
+        "color": "Crimson",
+        "mileage": 67047,
+        "price": 30879.17
+    },
+    {
+        "make": "Murphy-Mosley",
+        "model": "All",
+        "year": 2016,
+        "vin": "AMUP9H2L4MJVV35MJ",
+        "color": "MediumOrchid",
+        "mileage": 183355,
+        "price": 58456.9
+    },
+    {
+        "make": "Murray-Garcia",
+        "model": "Skin",
+        "year": 1999,
+        "vin": "HXW2OBHUZXCDBBVFT",
+        "color": "Aqua",
+        "mileage": 286165,
+        "price": 8024.36
+    },
+    {
+        "make": "Green, Henderson and Hickman",
+        "model": "Foreign",
+        "year": 2003,
+        "vin": "E5LRGXGZAOD8NYYE8",
+        "color": "Peru",
+        "mileage": 187513,
+        "price": 9675.96
+    },
+    {
+        "make": "Guerrero-Rivera",
+        "model": "Culture",
+        "year": 2006,
+        "vin": "RHMPZRMECTFHFW8WH",
+        "color": "SpringGreen",
+        "mileage": 152921,
+        "price": 25311.31
+    },
+    {
+        "make": "Hale Inc",
+        "model": "Coach",
+        "year": 2001,
+        "vin": "2TNBVSEJCUECDGDEY",
+        "color": "OrangeRed",
+        "mileage": 139869,
+        "price": 23891.41
+    },
+    {
+        "make": "Vasquez-Moss",
+        "model": "Fast",
+        "year": 2018,
+        "vin": "7SBH0VLPM2P6JTMIU",
+        "color": "LightSeaGreen",
+        "mileage": 58404,
+        "price": 24189.01
+    },
+    {
+        "make": "Williams, Watson and Turner",
+        "model": "Hotel",
+        "year": 2017,
+        "vin": "FDOOEZY6BFENZFOTA",
+        "color": "Gold",
+        "mileage": 276450,
+        "price": 56918.49
+    },
+    {
+        "make": "Williams, Harrell and Miles",
+        "model": "Thought",
+        "year": 2008,
+        "vin": "NEJ0KTX97VTHOY5JH",
+        "color": "DarkOrange",
+        "mileage": 253586,
+        "price": 18588.78
+    },
+    {
+        "make": "Richards Inc",
+        "model": "Just",
+        "year": 2000,
+        "vin": "YYEQDEWVNI7FF52WM",
+        "color": "RosyBrown",
+        "mileage": 6605,
+        "price": 6689.2
+    },
+    {
+        "make": "Joseph, Turner and Norman",
+        "model": "Wrong",
+        "year": 1995,
+        "vin": "SLYQMQDKMDWCK09W4",
+        "color": "LawnGreen",
+        "mileage": 162035,
+        "price": 20516.18
+    },
+    {
+        "make": "Welch, Wang and Turner",
+        "model": "Stop",
+        "year": 2006,
+        "vin": "TCWYIZEEGC7B37DEV",
+        "color": "MediumAquaMarine",
+        "mileage": 75572,
+        "price": 52444.42
+    },
+    {
+        "make": "Hayes-Stein",
+        "model": "Cup",
+        "year": 2000,
+        "vin": "YMGSEPHPLDQJZ53AZ",
+        "color": "Yellow",
+        "mileage": 230834,
+        "price": 32868.15
+    },
+    {
+        "make": "Roach-Hopkins",
+        "model": "Minute",
+        "year": 1994,
+        "vin": "NMCTX87SXHPCQ4OVE",
+        "color": "Teal",
+        "mileage": 210595,
+        "price": 20541.12
+    },
+    {
+        "make": "Bailey-Garcia",
+        "model": "Firm",
+        "year": 2012,
+        "vin": "0VBTPFMVGFDCMV838",
+        "color": "Orange",
+        "mileage": 194705,
+        "price": 63679.69
+    },
+    {
+        "make": "Ward-Campbell",
+        "model": "Current",
+        "year": 2024,
+        "vin": "9ZXUSCE7SQAUM2XR9",
+        "color": "OldLace",
+        "mileage": 113577,
+        "price": 11240.13
+    },
+    {
+        "make": "Jones LLC",
+        "model": "Focus",
+        "year": 2011,
+        "vin": "XU1WYMXWEIJO9F89P",
+        "color": "OliveDrab",
+        "mileage": 6561,
+        "price": 35653.25
+    },
+    {
+        "make": "Weber, Miller and Vega",
+        "model": "Young",
+        "year": 1990,
+        "vin": "HLIGAI03Q2LX7S4DN",
+        "color": "Brown",
+        "mileage": 73511,
+        "price": 5269.73
+    },
+    {
+        "make": "Davis, Sanders and Thomas",
+        "model": "Large",
+        "year": 2005,
+        "vin": "YKVEAFNLL5JOE2NNC",
+        "color": "Moccasin",
+        "mileage": 25090,
+        "price": 48554.07
+    },
+    {
+        "make": "Dominguez, Garrett and Levine",
+        "model": "Even",
+        "year": 1993,
+        "vin": "40B0GPLQWTF36MR4F",
+        "color": "BlanchedAlmond",
+        "mileage": 208007,
+        "price": 13542.55
+    },
+    {
+        "make": "Garcia Group",
+        "model": "Mention",
+        "year": 1997,
+        "vin": "RQIECUWDCDHVWIUKS",
+        "color": "CornflowerBlue",
+        "mileage": 298999,
+        "price": 37498.11
+    },
+    {
+        "make": "Richmond-Johnson",
+        "model": "Several",
+        "year": 2010,
+        "vin": "DJIKWHMKNMW5ES1G8",
+        "color": "MediumTurquoise",
+        "mileage": 133217,
+        "price": 26084.5
+    },
+    {
+        "make": "Gomez Ltd",
+        "model": "Popular",
+        "year": 2007,
+        "vin": "Z96GXZLAZPZTP4N9X",
+        "color": "DodgerBlue",
+        "mileage": 12555,
+        "price": 55446.83
+    },
+    {
+        "make": "Wong Ltd",
+        "model": "Act",
+        "year": 2006,
+        "vin": "VM8UQQHG6ZWKUINAY",
+        "color": "Salmon",
+        "mileage": 70763,
+        "price": 53752.6
+    },
+    {
+        "make": "Payne, Simon and Hoover",
+        "model": "Statement",
+        "year": 1996,
+        "vin": "7O43RKEMHEKUNKFHA",
+        "color": "NavajoWhite",
+        "mileage": 59772,
+        "price": 27069.41
+    },
+    {
+        "make": "Hayes-Berry",
+        "model": "Bill",
+        "year": 2019,
+        "vin": "Q8M89L5GLUZDU5MEO",
+        "color": "SeaShell",
+        "mileage": 177376,
+        "price": 5798.0
+    },
+    {
+        "make": "Davis Group",
+        "model": "Mouth",
+        "year": 1993,
+        "vin": "R6PFKFBPOE4DZMZP5",
+        "color": "Green",
+        "mileage": 45118,
+        "price": 60837.03
+    },
+    {
+        "make": "Lopez, Mcdaniel and Schwartz",
+        "model": "Real",
+        "year": 1992,
+        "vin": "0XS1E60HNKUZSZBGJ",
+        "color": "GoldenRod",
+        "mileage": 219983,
+        "price": 25077.28
+    },
+    {
+        "make": "Powell LLC",
+        "model": "Expert",
+        "year": 2003,
+        "vin": "S91QVNUCNMN9L7QH7",
+        "color": "MediumAquaMarine",
+        "mileage": 233343,
+        "price": 15356.3
+    },
+    {
+        "make": "Evans, Edwards and Joyce",
+        "model": "Measure",
+        "year": 1998,
+        "vin": "RLSPJIROJIP1QWJFN",
+        "color": "DarkSlateBlue",
+        "mileage": 146796,
+        "price": 25226.2
+    },
+    {
+        "make": "Bailey-Padilla",
+        "model": "Discuss",
+        "year": 2019,
+        "vin": "W1QGVA89JGWVX5SGZ",
+        "color": "MediumPurple",
+        "mileage": 24360,
+        "price": 27080.89
+    },
+    {
+        "make": "Davila Inc",
+        "model": "Meeting",
+        "year": 1997,
+        "vin": "KMEGBPOZHKS6VCFVA",
+        "color": "LimeGreen",
+        "mileage": 34464,
+        "price": 49191.62
+    },
+    {
+        "make": "Hunter, Blake and Smith",
+        "model": "Note",
+        "year": 2013,
+        "vin": "AFTIMHP4V8GL08OHZ",
+        "color": "ForestGreen",
+        "mileage": 59359,
+        "price": 44048.18
+    },
+    {
+        "make": "Coleman-Clayton",
+        "model": "Also",
+        "year": 1996,
+        "vin": "VO6ORDFT0T8K6S9WJ",
+        "color": "DarkGray",
+        "mileage": 273057,
+        "price": 40922.34
+    },
+    {
+        "make": "Escobar, Rivas and Armstrong",
+        "model": "Available",
+        "year": 2020,
+        "vin": "MMHP27QY1D135TZM9",
+        "color": "Black",
+        "mileage": 129201,
+        "price": 44869.55
+    },
+    {
+        "make": "Blake, Meyer and Brown",
+        "model": "Movement",
+        "year": 1994,
+        "vin": "B6RAO4KT4FQ33VUGA",
+        "color": "DarkMagenta",
+        "mileage": 209018,
+        "price": 41551.79
+    },
+    {
+        "make": "Johns, Smith and Erickson",
+        "model": "Establish",
+        "year": 2016,
+        "vin": "TV0PHDLS391VNMB7O",
+        "color": "Orange",
+        "mileage": 186074,
+        "price": 37515.61
+    },
+    {
+        "make": "Park, Hart and Powers",
+        "model": "Safe",
+        "year": 2019,
+        "vin": "VFD7GAIGTZNCXUKCB",
+        "color": "Yellow",
+        "mileage": 139229,
+        "price": 24569.91
+    },
+    {
+        "make": "Sawyer, Davidson and Rivera",
+        "model": "Necessary",
+        "year": 2019,
+        "vin": "DNLCU3RU2WG9ILCKO",
+        "color": "Tan",
+        "mileage": 20657,
+        "price": 14924.19
+    },
+    {
+        "make": "Vega, Rhodes and Bradley",
+        "model": "Truth",
+        "year": 2008,
+        "vin": "NE8FUDMNMJUYUUY0C",
+        "color": "YellowGreen",
+        "mileage": 196819,
+        "price": 38536.21
+    },
+    {
+        "make": "Leach PLC",
+        "model": "Road",
+        "year": 1996,
+        "vin": "2GB36IA4ZXVBAT5RS",
+        "color": "LightSalmon",
+        "mileage": 299104,
+        "price": 69283.49
+    },
+    {
+        "make": "Wilson, Hamilton and White",
+        "model": "Republican",
+        "year": 1998,
+        "vin": "XMLWHMKUEKMPRAOQJ",
+        "color": "Navy",
+        "mileage": 25818,
+        "price": 47577.18
+    },
+    {
+        "make": "Schultz, Chavez and Blackburn",
+        "model": "High",
+        "year": 1997,
+        "vin": "XP95XKPP9SVFPTRBN",
+        "color": "GhostWhite",
+        "mileage": 222301,
+        "price": 6881.11
+    },
+    {
+        "make": "Reese-Holt",
+        "model": "Idea",
+        "year": 2014,
+        "vin": "AK681MHADLQE7TTGE",
+        "color": "Gold",
+        "mileage": 224358,
+        "price": 34026.43
+    },
+    {
+        "make": "Bradley Group",
+        "model": "Past",
+        "year": 2014,
+        "vin": "ZCPHE7SI9FUHEWP3G",
+        "color": "Ivory",
+        "mileage": 219422,
+        "price": 43046.35
+    },
+    {
+        "make": "Cooper, Ruiz and Jones",
+        "model": "Black",
+        "year": 2022,
+        "vin": "YVSHMRLAYZU9RFGIQ",
+        "color": "DarkGreen",
+        "mileage": 242199,
+        "price": 17282.7
+    },
+    {
+        "make": "Pratt, Anderson and Moreno",
+        "model": "Occur",
+        "year": 1996,
+        "vin": "1DFHOGBUH6MYPLF7J",
+        "color": "LightSeaGreen",
+        "mileage": 190942,
+        "price": 50740.32
+    },
+    {
+        "make": "Jackson-Mccormick",
+        "model": "Civil",
+        "year": 1990,
+        "vin": "CCCWPND94GF5XVB9N",
+        "color": "Coral",
+        "mileage": 251319,
+        "price": 27585.03
+    },
+    {
+        "make": "Rosario, Hansen and Matthews",
+        "model": "Animal",
+        "year": 1991,
+        "vin": "ISQSZRRDUMKIHW0RF",
+        "color": "OrangeRed",
+        "mileage": 291116,
+        "price": 48094.86
+    },
+    {
+        "make": "Walker and Sons",
+        "model": "Dog",
+        "year": 1992,
+        "vin": "REPFIWV786RVXYGDK",
+        "color": "Thistle",
+        "mileage": 112649,
+        "price": 13755.23
+    },
+    {
+        "make": "Wilson, Pratt and Whitehead",
+        "model": "Reflect",
+        "year": 1991,
+        "vin": "ETNRPC68WJQNKXKW7",
+        "color": "CadetBlue",
+        "mileage": 140280,
+        "price": 11167.52
+    },
+    {
+        "make": "Dennis-Lopez",
+        "model": "Billion",
+        "year": 2022,
+        "vin": "PBKPI39P4BDVP8FLP",
+        "color": "LightPink",
+        "mileage": 234561,
+        "price": 46692.14
+    },
+    {
+        "make": "Rodriguez, Moore and Villegas",
+        "model": "Billion",
+        "year": 1994,
+        "vin": "2EOSBRNMBL7KLNBBG",
+        "color": "Moccasin",
+        "mileage": 250981,
+        "price": 28463.1
+    },
+    {
+        "make": "Fox-Gray",
+        "model": "International",
+        "year": 1990,
+        "vin": "R5PZ42PXMTRDBCBMB",
+        "color": "DarkSlateBlue",
+        "mileage": 77524,
+        "price": 23765.78
+    },
+    {
+        "make": "Christensen-Spencer",
+        "model": "Leave",
+        "year": 2005,
+        "vin": "6K2ZFQ5C4DMMQNTPA",
+        "color": "Pink",
+        "mileage": 131024,
+        "price": 21610.33
+    },
+    {
+        "make": "Mcdonald PLC",
+        "model": "Cover",
+        "year": 2010,
+        "vin": "GUEU7PYDDCGNZHDFM",
+        "color": "Peru",
+        "mileage": 239874,
+        "price": 51615.43
+    },
+    {
+        "make": "Hamilton-Velasquez",
+        "model": "Energy",
+        "year": 2017,
+        "vin": "52LFWMLLSHJYYC6Z9",
+        "color": "DimGray",
+        "mileage": 34548,
+        "price": 38033.43
+    },
+    {
+        "make": "Anthony LLC",
+        "model": "Would",
+        "year": 1995,
+        "vin": "TDOTDTMWISYAHDFK3",
+        "color": "BlueViolet",
+        "mileage": 90400,
+        "price": 5101.27
+    },
+    {
+        "make": "Cruz LLC",
+        "model": "Current",
+        "year": 2006,
+        "vin": "TVJ8USXQ0NAONERDI",
+        "color": "RoyalBlue",
+        "mileage": 175745,
+        "price": 57155.35
+    },
+    {
+        "make": "Byrd Group",
+        "model": "Style",
+        "year": 2018,
+        "vin": "XHFFPHDV2OVGQ3ZEF",
+        "color": "Coral",
+        "mileage": 104710,
+        "price": 64028.51
+    },
+    {
+        "make": "Lewis, Fuller and Clark",
+        "model": "Wait",
+        "year": 2001,
+        "vin": "C7YAEV238VO9SATNF",
+        "color": "LightYellow",
+        "mileage": 272407,
+        "price": 26662.52
+    },
+    {
+        "make": "Hawkins, Peterson and Cobb",
+        "model": "Find",
+        "year": 2024,
+        "vin": "5VXB023CNZTPAHUSV",
+        "color": "SeaGreen",
+        "mileage": 180366,
+        "price": 27697.38
+    },
+    {
+        "make": "Snyder-Mathews",
+        "model": "Sit",
+        "year": 1991,
+        "vin": "NTEHDMK5N3G41KYXL",
+        "color": "DarkGreen",
+        "mileage": 41811,
+        "price": 24761.32
+    },
+    {
+        "make": "Barrett, Morrow and Martin",
+        "model": "Often",
+        "year": 2005,
+        "vin": "KEOBNPQZCDVIKEWFA",
+        "color": "LightGreen",
+        "mileage": 232073,
+        "price": 23707.84
+    },
+    {
+        "make": "Melendez PLC",
+        "model": "Work",
+        "year": 2002,
+        "vin": "08I4CEJ4ORJ6SIO9I",
+        "color": "MistyRose",
+        "mileage": 8960,
+        "price": 66858.94
+    },
+    {
+        "make": "Mcdaniel LLC",
+        "model": "Step",
+        "year": 2003,
+        "vin": "Q65JGIDTHMSDOLWJB",
+        "color": "PeachPuff",
+        "mileage": 141200,
+        "price": 22219.61
+    },
+    {
+        "make": "Reynolds Group",
+        "model": "Environment",
+        "year": 2004,
+        "vin": "CL75UE7MUNKR7RNLO",
+        "color": "DarkMagenta",
+        "mileage": 275403,
+        "price": 15553.29
+    },
+    {
+        "make": "Smith Inc",
+        "model": "Tell",
+        "year": 2009,
+        "vin": "H1E7DGNIANS4XJAZC",
+        "color": "SeaShell",
+        "mileage": 279775,
+        "price": 38376.92
+    },
+    {
+        "make": "Johnson, Gonzalez and Hanson",
+        "model": "Require",
+        "year": 2003,
+        "vin": "EIGOYOQTWM5EV4AHE",
+        "color": "Chocolate",
+        "mileage": 276658,
+        "price": 25451.78
+    },
+    {
+        "make": "Gallagher, Green and Miller",
+        "model": "Investment",
+        "year": 2004,
+        "vin": "BL6P8J5SY98TBTYBR",
+        "color": "Snow",
+        "mileage": 69883,
+        "price": 41660.37
+    },
+    {
+        "make": "Gray PLC",
+        "model": "Treat",
+        "year": 2020,
+        "vin": "ZMGHYLS7VYM0KPIZ6",
+        "color": "DarkKhaki",
+        "mileage": 161199,
+        "price": 68808.14
+    },
+    {
+        "make": "Hernandez, Wilson and Melendez",
+        "model": "Off",
+        "year": 2001,
+        "vin": "L7YXRXTOX4DSHMP3Z",
+        "color": "Orchid",
+        "mileage": 187922,
+        "price": 35757.23
+    },
+    {
+        "make": "Garrett, Nguyen and Chapman",
+        "model": "Public",
+        "year": 2014,
+        "vin": "FMHJBKU5QCN1XCXZM",
+        "color": "SteelBlue",
+        "mileage": 227087,
+        "price": 64653.84
+    },
+    {
+        "make": "Duncan Ltd",
+        "model": "Loss",
+        "year": 1990,
+        "vin": "4IYTR1OQHEO2W44UN",
+        "color": "HoneyDew",
+        "mileage": 277577,
+        "price": 25292.32
+    },
+    {
+        "make": "Keller, Williams and Burke",
+        "model": "Smile",
+        "year": 2000,
+        "vin": "Z0FW4X0BUHO2PUJRD",
+        "color": "DarkCyan",
+        "mileage": 239069,
+        "price": 44972.54
+    },
+    {
+        "make": "Cole-Ryan",
+        "model": "Expert",
+        "year": 2012,
+        "vin": "3TJYFRE62GMXWLTNW",
+        "color": "OldLace",
+        "mileage": 151217,
+        "price": 61178.54
+    },
+    {
+        "make": "Wells-Lopez",
+        "model": "Ago",
+        "year": 2017,
+        "vin": "Y9EJ8LGALEHX0UIN6",
+        "color": "LightSkyBlue",
+        "mileage": 104118,
+        "price": 48100.87
+    },
+    {
+        "make": "Palmer PLC",
+        "model": "Clear",
+        "year": 2014,
+        "vin": "6U9UJGPXKBJHTRDEO",
+        "color": "Turquoise",
+        "mileage": 248647,
+        "price": 9427.82
+    },
+    {
+        "make": "Contreras-Evans",
+        "model": "Movie",
+        "year": 2014,
+        "vin": "LUIM6FL2BGD9VLDFE",
+        "color": "SaddleBrown",
+        "mileage": 98740,
+        "price": 29361.71
+    },
+    {
+        "make": "Brown Ltd",
+        "model": "Heavy",
+        "year": 1995,
+        "vin": "UA9OCURVG3RCKRVEW",
+        "color": "LemonChiffon",
+        "mileage": 215439,
+        "price": 46380.9
+    },
+    {
+        "make": "Kline, Dixon and Spencer",
+        "model": "Summer",
+        "year": 1998,
+        "vin": "HKYBGBMDUFEHLDVON",
+        "color": "PapayaWhip",
+        "mileage": 248986,
+        "price": 49114.55
+    },
+    {
+        "make": "Spears, Alvarez and Walker",
+        "model": "Sign",
+        "year": 2016,
+        "vin": "1F0M432XLPECLFM28",
+        "color": "MediumTurquoise",
+        "mileage": 119155,
+        "price": 59131.06
+    },
+    {
+        "make": "English-Duran",
+        "model": "Education",
+        "year": 1995,
+        "vin": "ZQWNJ4YFY1KOQCE4T",
+        "color": "LightCoral",
+        "mileage": 162973,
+        "price": 61152.04
+    },
+    {
+        "make": "Cline Ltd",
+        "model": "Just",
+        "year": 2012,
+        "vin": "1KIDRP9RIEYWSKNAP",
+        "color": "Tomato",
+        "mileage": 130285,
+        "price": 5898.14
+    },
+    {
+        "make": "Brewer, Campbell and Ramirez",
+        "model": "Rich",
+        "year": 2014,
+        "vin": "ZMPRC6AVCHKKRIJU0",
+        "color": "DarkBlue",
+        "mileage": 196739,
+        "price": 22640.96
+    },
+    {
+        "make": "Mcclure-Caldwell",
+        "model": "Long",
+        "year": 2015,
+        "vin": "QJ0VRYBUKDN5KOJ7D",
+        "color": "DarkCyan",
+        "mileage": 260461,
+        "price": 46705.76
+    },
+    {
+        "make": "Thompson-Nicholson",
+        "model": "Fire",
+        "year": 1997,
+        "vin": "9ZVKEZKDVHNTBEKHL",
+        "color": "SkyBlue",
+        "mileage": 247351,
+        "price": 35068.73
+    },
+    {
+        "make": "Holt-Cruz",
+        "model": "Own",
+        "year": 1991,
+        "vin": "E3CAPWPDYMK6HEFBF",
+        "color": "LightSlateGray",
+        "mileage": 149725,
+        "price": 65831.76
+    },
+    {
+        "make": "Wagner Inc",
+        "model": "Him",
+        "year": 1997,
+        "vin": "CIXPQYVICV3MT6TCQ",
+        "color": "DarkSalmon",
+        "mileage": 255115,
+        "price": 68337.52
+    },
+    {
+        "make": "Hart PLC",
+        "model": "Management",
+        "year": 1990,
+        "vin": "KJXUXWDSBL5LD6BDV",
+        "color": "HoneyDew",
+        "mileage": 124865,
+        "price": 6863.26
+    },
+    {
+        "make": "Henderson-Solis",
+        "model": "Movement",
+        "year": 2017,
+        "vin": "JIPOJBS4IGWTX3KGD",
+        "color": "Chocolate",
+        "mileage": 16346,
+        "price": 64069.24
+    },
+    {
+        "make": "Baker-Rose",
+        "model": "Today",
+        "year": 2020,
+        "vin": "S9BC9HZAGG3ZWTYCL",
+        "color": "DarkGoldenRod",
+        "mileage": 201914,
+        "price": 61609.0
+    },
+    {
+        "make": "Green-Owens",
+        "model": "Other",
+        "year": 1994,
+        "vin": "MUHI9AHARD7IMESDN",
+        "color": "SandyBrown",
+        "mileage": 74786,
+        "price": 67950.17
+    },
+    {
+        "make": "Snyder LLC",
+        "model": "Instead",
+        "year": 2016,
+        "vin": "VJKPD8H85E2AIBJVX",
+        "color": "NavajoWhite",
+        "mileage": 112851,
+        "price": 52400.24
+    },
+    {
+        "make": "Vega, Malone and Dunn",
+        "model": "Cost",
+        "year": 1990,
+        "vin": "PPVGY24UFZGKHVQ9R",
+        "color": "BlanchedAlmond",
+        "mileage": 151364,
+        "price": 56274.81
+    },
+    {
+        "make": "Garrison, Fowler and Stevens",
+        "model": "Few",
+        "year": 2003,
+        "vin": "UU7CTDOKIH76Z8OOH",
+        "color": "MidnightBlue",
+        "mileage": 166669,
+        "price": 16310.82
+    },
+    {
+        "make": "Hernandez, Lambert and Fowler",
+        "model": "Base",
+        "year": 2012,
+        "vin": "7IE7HZIMOFARXTDC8",
+        "color": "White",
+        "mileage": 124736,
+        "price": 45448.45
+    },
+    {
+        "make": "Smith and Sons",
+        "model": "Brother",
+        "year": 2007,
+        "vin": "NHORG2XFDBRKT0JE5",
+        "color": "IndianRed",
+        "mileage": 218309,
+        "price": 21290.29
+    },
+    {
+        "make": "Vincent, Ramirez and Smith",
+        "model": "Will",
+        "year": 2007,
+        "vin": "8GPXVHYDMNKXRMGGW",
+        "color": "DeepPink",
+        "mileage": 270853,
+        "price": 21643.53
+    },
+    {
+        "make": "Mcgrath-Wilson",
+        "model": "Door",
+        "year": 2000,
+        "vin": "2NYXRB2YP2EV70HY4",
+        "color": "DarkViolet",
+        "mileage": 33413,
+        "price": 63462.07
+    },
+    {
+        "make": "Butler, Robinson and Brooks",
+        "model": "Shoulder",
+        "year": 1999,
+        "vin": "B62HGDYTM6UGXHSX0",
+        "color": "Wheat",
+        "mileage": 271225,
+        "price": 17303.33
+    },
+    {
+        "make": "Bailey-Torres",
+        "model": "Six",
+        "year": 2009,
+        "vin": "YAQNODFFPVHCNBXPP",
+        "color": "OldLace",
+        "mileage": 216587,
+        "price": 37606.0
+    },
+    {
+        "make": "Bell-Lopez",
+        "model": "The",
+        "year": 2021,
+        "vin": "AVBDGDUGBZZISWKTC",
+        "color": "White",
+        "mileage": 75750,
+        "price": 69357.35
+    },
+    {
+        "make": "Gaines LLC",
+        "model": "Population",
+        "year": 2013,
+        "vin": "Q9EDLBD2YVZ0FMDDF",
+        "color": "FireBrick",
+        "mileage": 88654,
+        "price": 6410.14
+    },
+    {
+        "make": "Mcclain, Miles and Daniels",
+        "model": "Camera",
+        "year": 2017,
+        "vin": "SHGPYL1OEG9YBYXKV",
+        "color": "HoneyDew",
+        "mileage": 69859,
+        "price": 25064.88
+    },
+    {
+        "make": "Mcdonald-Lopez",
+        "model": "Big",
+        "year": 2011,
+        "vin": "WX1XSQALG4W46GSPE",
+        "color": "GhostWhite",
+        "mileage": 279992,
+        "price": 50830.42
+    },
+    {
+        "make": "Smith Ltd",
+        "model": "As",
+        "year": 2017,
+        "vin": "ATODLYC3OG457PRYW",
+        "color": "MediumSpringGreen",
+        "mileage": 160970,
+        "price": 5486.05
+    },
+    {
+        "make": "Wright, Miller and Sanchez",
+        "model": "Prove",
+        "year": 2003,
+        "vin": "PJ74WDTF5THSJQT7W",
+        "color": "Navy",
+        "mileage": 263007,
+        "price": 69720.89
+    },
+    {
+        "make": "Spencer Group",
+        "model": "Total",
+        "year": 2016,
+        "vin": "ODHKNPVZSHFRHQLSZ",
+        "color": "LawnGreen",
+        "mileage": 159193,
+        "price": 19221.77
+    },
+    {
+        "make": "Griffin, Owens and Hill",
+        "model": "Protect",
+        "year": 2011,
+        "vin": "XTTXZMM3WGPR6P6S5",
+        "color": "LightGray",
+        "mileage": 60463,
+        "price": 47540.59
+    },
+    {
+        "make": "Jacobs, Pearson and Marshall",
+        "model": "Fast",
+        "year": 2002,
+        "vin": "U1KKRPOEHTRZLKOTU",
+        "color": "DimGray",
+        "mileage": 183794,
+        "price": 15648.47
+    },
+    {
+        "make": "Jennings Ltd",
+        "model": "Executive",
+        "year": 1994,
+        "vin": "RJNFEQFTBZ1WSFQO9",
+        "color": "MediumTurquoise",
+        "mileage": 23331,
+        "price": 35447.08
+    },
+    {
+        "make": "Lloyd, Moore and Wright",
+        "model": "Year",
+        "year": 2008,
+        "vin": "LIRWMMK34J8Y5IUIM",
+        "color": "DarkSeaGreen",
+        "mileage": 75546,
+        "price": 26083.75
+    },
+    {
+        "make": "Morris, Sellers and Foster",
+        "model": "Group",
+        "year": 2006,
+        "vin": "6KZ5OBMLFZCPTZT2Z",
+        "color": "SpringGreen",
+        "mileage": 238663,
+        "price": 33660.54
+    },
+    {
+        "make": "Gray, Ayala and Williams",
+        "model": "Grow",
+        "year": 2023,
+        "vin": "UX6GRFQFIELT09YMM",
+        "color": "RoyalBlue",
+        "mileage": 114998,
+        "price": 15430.8
+    },
+    {
+        "make": "Martinez PLC",
+        "model": "Music",
+        "year": 2002,
+        "vin": "EWDSGT3693YA4PB39",
+        "color": "Tan",
+        "mileage": 104847,
+        "price": 6366.54
+    },
+    {
+        "make": "Gay-Gonzalez",
+        "model": "Develop",
+        "year": 1996,
+        "vin": "UZSFQCSGLKDBGVBCQ",
+        "color": "DarkOrange",
+        "mileage": 223593,
+        "price": 7632.95
+    },
+    {
+        "make": "Sexton PLC",
+        "model": "Middle",
+        "year": 2013,
+        "vin": "UNDBZP1ZUOQOR4FV8",
+        "color": "PowderBlue",
+        "mileage": 118034,
+        "price": 11005.56
+    },
+    {
+        "make": "Patterson-Jackson",
+        "model": "Meet",
+        "year": 2010,
+        "vin": "A4X3PUBSRS1OYMWPY",
+        "color": "Lime",
+        "mileage": 283971,
+        "price": 64586.63
+    },
+    {
+        "make": "Thomas-Tran",
+        "model": "Arm",
+        "year": 2008,
+        "vin": "YD3KXYVTUVAFBWB6G",
+        "color": "Gold",
+        "mileage": 715,
+        "price": 10858.04
+    },
+    {
+        "make": "Mckee PLC",
+        "model": "Lot",
+        "year": 1995,
+        "vin": "I9VYRUDEQMSD51NCH",
+        "color": "LightBlue",
+        "mileage": 32774,
+        "price": 37040.98
+    },
+    {
+        "make": "Johnson-Hanson",
+        "model": "Answer",
+        "year": 2013,
+        "vin": "SDEVL2ODFMBM7LMBD",
+        "color": "SandyBrown",
+        "mileage": 186717,
+        "price": 34747.79
+    },
+    {
+        "make": "Sanchez-Bennett",
+        "model": "Spring",
+        "year": 2015,
+        "vin": "FE3EDXKOXCVDBQJ9Q",
+        "color": "AntiqueWhite",
+        "mileage": 103813,
+        "price": 22752.41
+    },
+    {
+        "make": "Ward-Prince",
+        "model": "Wife",
+        "year": 2006,
+        "vin": "STHEPDEORVL4D9SAP",
+        "color": "GhostWhite",
+        "mileage": 226251,
+        "price": 19964.35
+    },
+    {
+        "make": "Wells-Wilson",
+        "model": "Wear",
+        "year": 2023,
+        "vin": "RK6B9UKTZQXLFYYL4",
+        "color": "DarkViolet",
+        "mileage": 236388,
+        "price": 58845.47
+    },
+    {
+        "make": "Stewart-Logan",
+        "model": "Picture",
+        "year": 2022,
+        "vin": "DGFODCD2UIABKUYQR",
+        "color": "CornflowerBlue",
+        "mileage": 58458,
+        "price": 65710.44
+    },
+    {
+        "make": "Lowe, Johnson and Swanson",
+        "model": "Choose",
+        "year": 2015,
+        "vin": "4DOS9LWKETQKKCOTF",
+        "color": "WhiteSmoke",
+        "mileage": 194598,
+        "price": 67883.13
+    },
+    {
+        "make": "Davis and Sons",
+        "model": "Control",
+        "year": 2020,
+        "vin": "QK6QJGMRXGEXBCTTI",
+        "color": "HoneyDew",
+        "mileage": 77738,
+        "price": 54510.11
+    },
+    {
+        "make": "Christian, Martin and Sampson",
+        "model": "Line",
+        "year": 2004,
+        "vin": "AJSSY1KLSNOYTS85N",
+        "color": "Red",
+        "mileage": 123035,
+        "price": 29684.64
+    },
+    {
+        "make": "Erickson-Evans",
+        "model": "North",
+        "year": 2018,
+        "vin": "WB9ONPAC6RALYBYX3",
+        "color": "LawnGreen",
+        "mileage": 18116,
+        "price": 69075.8
+    },
+    {
+        "make": "Estrada-Woodard",
+        "model": "Deal",
+        "year": 2015,
+        "vin": "EHNVUVGJY6ZQPU6QC",
+        "color": "SlateBlue",
+        "mileage": 240040,
+        "price": 68339.22
+    },
+    {
+        "make": "Cochran and Sons",
+        "model": "Hundred",
+        "year": 1992,
+        "vin": "IBJWPY5OZAUEIDPY6",
+        "color": "MediumTurquoise",
+        "mileage": 252696,
+        "price": 28371.34
+    },
+    {
+        "make": "Vaughn, Bailey and Sharp",
+        "model": "Use",
+        "year": 2008,
+        "vin": "3VTOMMYO6RJJV7DV7",
+        "color": "PaleGoldenRod",
+        "mileage": 59376,
+        "price": 32293.85
+    },
+    {
+        "make": "Clark Inc",
+        "model": "Fish",
+        "year": 2008,
+        "vin": "6UNHFUN41RAAEPRDV",
+        "color": "Olive",
+        "mileage": 212891,
+        "price": 22911.8
+    },
+    {
+        "make": "Hudson Group",
+        "model": "Dark",
+        "year": 1995,
+        "vin": "ZL5KD4FDPTHQDAPVM",
+        "color": "Orange",
+        "mileage": 195370,
+        "price": 24724.09
+    },
+    {
+        "make": "White-Kerr",
+        "model": "Production",
+        "year": 1991,
+        "vin": "U3LOJCSXQR6VABMJD",
+        "color": "Aquamarine",
+        "mileage": 45564,
+        "price": 21034.15
+    },
+    {
+        "make": "White LLC",
+        "model": "Body",
+        "year": 1993,
+        "vin": "GV679OSKH7PGXI5MD",
+        "color": "Navy",
+        "mileage": 81435,
+        "price": 36021.66
+    },
+    {
+        "make": "Thomas Group",
+        "model": "Mouth",
+        "year": 2015,
+        "vin": "HXKQ3IUTRCS1QB20T",
+        "color": "PapayaWhip",
+        "mileage": 147268,
+        "price": 5830.79
+    },
+    {
+        "make": "Smith, Allen and Baker",
+        "model": "Member",
+        "year": 1994,
+        "vin": "ONMDIOWZT2R3TL3AX",
+        "color": "Azure",
+        "mileage": 197871,
+        "price": 36161.61
+    },
+    {
+        "make": "Alvarado PLC",
+        "model": "Set",
+        "year": 1990,
+        "vin": "GXTYN1KBSYNS5T0WS",
+        "color": "GoldenRod",
+        "mileage": 153495,
+        "price": 56905.39
+    },
+    {
+        "make": "Garcia Ltd",
+        "model": "Reason",
+        "year": 2003,
+        "vin": "AVQFHRWQ7JRWH9E1I",
+        "color": "Pink",
+        "mileage": 69168,
+        "price": 42082.37
+    },
+    {
+        "make": "Carroll and Sons",
+        "model": "Experience",
+        "year": 2005,
+        "vin": "STR3GUFOFZ1O2Z24V",
+        "color": "BlueViolet",
+        "mileage": 254179,
+        "price": 42743.53
+    },
+    {
+        "make": "Glover-Green",
+        "model": "Performance",
+        "year": 2022,
+        "vin": "G2ISD1BG176HRUHXP",
+        "color": "Aquamarine",
+        "mileage": 100114,
+        "price": 55266.35
+    },
+    {
+        "make": "Burgess-Klein",
+        "model": "No",
+        "year": 1993,
+        "vin": "GP2AVMYBFDHYPNFQ5",
+        "color": "Navy",
+        "mileage": 221405,
+        "price": 57793.03
+    },
+    {
+        "make": "Cruz Inc",
+        "model": "Daughter",
+        "year": 2018,
+        "vin": "HCTLGC6CLRMABEWDL",
+        "color": "Beige",
+        "mileage": 63316,
+        "price": 28872.63
+    },
+    {
+        "make": "Martin PLC",
+        "model": "Cut",
+        "year": 2002,
+        "vin": "KHX2KF6BBIBBMGP76",
+        "color": "Crimson",
+        "mileage": 82958,
+        "price": 13543.31
+    },
+    {
+        "make": "Barnes, Austin and Olson",
+        "model": "Spring",
+        "year": 2002,
+        "vin": "QV15JCEZ7PW1QDGPA",
+        "color": "Magenta",
+        "mileage": 48365,
+        "price": 68476.32
+    },
+    {
+        "make": "Avery, Padilla and Wood",
+        "model": "Evidence",
+        "year": 2017,
+        "vin": "JUTSEU2YQUVHPBESZ",
+        "color": "DarkKhaki",
+        "mileage": 57122,
+        "price": 36470.9
+    },
+    {
+        "make": "Hess-Griffin",
+        "model": "Would",
+        "year": 1999,
+        "vin": "OBSHBRBEIDHFLC5Q4",
+        "color": "Pink",
+        "mileage": 145842,
+        "price": 6484.32
+    },
+    {
+        "make": "Cannon and Sons",
+        "model": "Window",
+        "year": 2009,
+        "vin": "5QXPHV1EW32SPAFVR",
+        "color": "DarkRed",
+        "mileage": 130784,
+        "price": 5349.68
+    },
+    {
+        "make": "Cobb-Adams",
+        "model": "Hear",
+        "year": 2011,
+        "vin": "A3CRKR98F8INLVUGW",
+        "color": "Wheat",
+        "mileage": 111546,
+        "price": 49384.55
+    },
+    {
+        "make": "Williams, Wilkerson and Oliver",
+        "model": "Morning",
+        "year": 2004,
+        "vin": "XJRIXBV9ZSFKPROXA",
+        "color": "PapayaWhip",
+        "mileage": 296609,
+        "price": 45900.57
+    },
+    {
+        "make": "Stewart, Clay and Robinson",
+        "model": "Race",
+        "year": 1994,
+        "vin": "U0TYO7Q3UABOEYYIT",
+        "color": "Gainsboro",
+        "mileage": 212798,
+        "price": 66243.53
+    },
+    {
+        "make": "Hicks-Taylor",
+        "model": "Show",
+        "year": 1997,
+        "vin": "U59FTEICCWDFCL501",
+        "color": "RoyalBlue",
+        "mileage": 60784,
+        "price": 29894.57
+    },
+    {
+        "make": "Smith Ltd",
+        "model": "Value",
+        "year": 2014,
+        "vin": "SLQ8WPTJKLZFL8DXH",
+        "color": "Peru",
+        "mileage": 79552,
+        "price": 23527.5
+    },
+    {
+        "make": "Daniel, Davenport and Gutierrez",
+        "model": "Work",
+        "year": 2006,
+        "vin": "ETIKYTDJN9OSJFEHK",
+        "color": "DarkSeaGreen",
+        "mileage": 107561,
+        "price": 31194.91
+    },
+    {
+        "make": "Warren-Harper",
+        "model": "Impact",
+        "year": 1992,
+        "vin": "H6JI9TFMFWATKGVOM",
+        "color": "Thistle",
+        "mileage": 100927,
+        "price": 33683.87
+    },
+    {
+        "make": "Gonzalez Ltd",
+        "model": "Sense",
+        "year": 2019,
+        "vin": "GRMRSBRQQFIK2ZSSB",
+        "color": "LightSlateGray",
+        "mileage": 3708,
+        "price": 47433.94
+    },
+    {
+        "make": "Garcia, Arroyo and Guzman",
+        "model": "Member",
+        "year": 2015,
+        "vin": "NK7AC5KWRI9H1WK63",
+        "color": "DeepPink",
+        "mileage": 287163,
+        "price": 60386.45
+    },
+    {
+        "make": "Conley-Powell",
+        "model": "Ask",
+        "year": 2000,
+        "vin": "VBWT9GGIRJWRZ28V2",
+        "color": "Thistle",
+        "mileage": 164045,
+        "price": 48367.33
+    },
+    {
+        "make": "Garcia-Mann",
+        "model": "Magazine",
+        "year": 2021,
+        "vin": "RPBNYAYW13ZKPC7PA",
+        "color": "GoldenRod",
+        "mileage": 241718,
+        "price": 9526.91
+    },
+    {
+        "make": "Garcia-Brown",
+        "model": "Relationship",
+        "year": 1995,
+        "vin": "8CQ1WZFCMAEMLIDU1",
+        "color": "Pink",
+        "mileage": 113111,
+        "price": 44128.27
+    },
+    {
+        "make": "Perry-Smith",
+        "model": "Along",
+        "year": 2022,
+        "vin": "W2Q0M2XK8A6T5SFFW",
+        "color": "LavenderBlush",
+        "mileage": 173246,
+        "price": 59408.63
+    },
+    {
+        "make": "Floyd, Choi and Hayes",
+        "model": "Four",
+        "year": 2019,
+        "vin": "TMD3U3EBC1ECIKRE6",
+        "color": "DarkCyan",
+        "mileage": 151136,
+        "price": 19261.31
+    },
+    {
+        "make": "Gilbert Ltd",
+        "model": "Opportunity",
+        "year": 2011,
+        "vin": "KZPQXES0NCIFGEQXP",
+        "color": "Silver",
+        "mileage": 180817,
+        "price": 9998.98
+    },
+    {
+        "make": "Miles Group",
+        "model": "Loss",
+        "year": 2022,
+        "vin": "CHZLPDR43HTSJCWAR",
+        "color": "SandyBrown",
+        "mileage": 234383,
+        "price": 69720.0
+    },
+    {
+        "make": "Cook, Williams and Butler",
+        "model": "Plant",
+        "year": 2023,
+        "vin": "K69WESMCL6LOT6AJM",
+        "color": "OliveDrab",
+        "mileage": 238456,
+        "price": 16552.35
+    },
+    {
+        "make": "Hernandez PLC",
+        "model": "Remember",
+        "year": 2001,
+        "vin": "LPMVBJ1PG6XHMDGHH",
+        "color": "LightGray",
+        "mileage": 124073,
+        "price": 63417.37
+    },
+    {
+        "make": "Spencer, Wood and Schaefer",
+        "model": "While",
+        "year": 2019,
+        "vin": "NHD25HKQZQPGYRJZV",
+        "color": "DarkMagenta",
+        "mileage": 32324,
+        "price": 9417.8
+    },
+    {
+        "make": "Rodriguez LLC",
+        "model": "Little",
+        "year": 2022,
+        "vin": "OHH0FXAP7IFJRW9KO",
+        "color": "MediumSlateBlue",
+        "mileage": 198675,
+        "price": 30469.71
+    },
+    {
+        "make": "Bowers-Johnson",
+        "model": "Again",
+        "year": 2007,
+        "vin": "DLAICZAXNLI4FMVDS",
+        "color": "FireBrick",
+        "mileage": 969,
+        "price": 14253.46
+    },
+    {
+        "make": "Baker-Dunlap",
+        "model": "Pressure",
+        "year": 2006,
+        "vin": "YGMNQ1M7VUVKPFWW8",
+        "color": "MediumAquaMarine",
+        "mileage": 18663,
+        "price": 69120.9
+    },
+    {
+        "make": "Savage, Smith and Warner",
+        "model": "Medical",
+        "year": 2016,
+        "vin": "X8GTCPRUQZWSZAU0H",
+        "color": "Thistle",
+        "mileage": 164822,
+        "price": 29027.83
+    },
+    {
+        "make": "Klein, Zimmerman and Graham",
+        "model": "Admit",
+        "year": 2002,
+        "vin": "HZAKDCFRUQZJX7931",
+        "color": "Khaki",
+        "mileage": 26188,
+        "price": 22662.62
+    },
+    {
+        "make": "Bennett Ltd",
+        "model": "Technology",
+        "year": 2006,
+        "vin": "FA9SV0U2NTKL5D0ZQ",
+        "color": "Lime",
+        "mileage": 42012,
+        "price": 5920.22
+    },
+    {
+        "make": "Delgado PLC",
+        "model": "Activity",
+        "year": 2023,
+        "vin": "AJNSU54HIBMKKSKLC",
+        "color": "DarkMagenta",
+        "mileage": 58119,
+        "price": 35596.19
+    },
+    {
+        "make": "Sanders LLC",
+        "model": "Owner",
+        "year": 2008,
+        "vin": "1VIWKGKO7LNWNB3SD",
+        "color": "HoneyDew",
+        "mileage": 108690,
+        "price": 44062.14
+    },
+    {
+        "make": "Wells, Aguilar and Harrell",
+        "model": "Hope",
+        "year": 1996,
+        "vin": "HXRBVFOCM83JHVNMR",
+        "color": "DodgerBlue",
+        "mileage": 191257,
+        "price": 45910.18
+    },
+    {
+        "make": "Mcdaniel, Moss and Foster",
+        "model": "Parent",
+        "year": 2001,
+        "vin": "YSKRF5BUXKL9VS5TC",
+        "color": "PapayaWhip",
+        "mileage": 258568,
+        "price": 13918.03
+    },
+    {
+        "make": "Mcdowell-Silva",
+        "model": "History",
+        "year": 2018,
+        "vin": "PD8NHG2T0YRZEVFOL",
+        "color": "Lavender",
+        "mileage": 129474,
+        "price": 62755.88
+    },
+    {
+        "make": "Vargas, Jenkins and Yang",
+        "model": "Feeling",
+        "year": 1993,
+        "vin": "MEZM27DHOOH8AP4MH",
+        "color": "LemonChiffon",
+        "mileage": 296887,
+        "price": 50120.41
+    },
+    {
+        "make": "Willis Inc",
+        "model": "Later",
+        "year": 2001,
+        "vin": "W7VS05QTIC1QAHBUI",
+        "color": "SeaShell",
+        "mileage": 75243,
+        "price": 34950.44
+    },
+    {
+        "make": "Giles and Sons",
+        "model": "Later",
+        "year": 2010,
+        "vin": "7EGB5M3OIQODTNECG",
+        "color": "GhostWhite",
+        "mileage": 133364,
+        "price": 12319.91
+    },
+    {
+        "make": "Stewart-Reynolds",
+        "model": "Behavior",
+        "year": 2018,
+        "vin": "LHO9DR87ANBOZF3GR",
+        "color": "HotPink",
+        "mileage": 114282,
+        "price": 45384.84
+    },
+    {
+        "make": "Griffin PLC",
+        "model": "Which",
+        "year": 1994,
+        "vin": "PA1WNZWLUX13KDMNW",
+        "color": "GreenYellow",
+        "mileage": 215305,
+        "price": 17623.14
+    },
+    {
+        "make": "Simpson-Klein",
+        "model": "Detail",
+        "year": 2016,
+        "vin": "XX42PTKLCHJ1C89YQ",
+        "color": "Bisque",
+        "mileage": 151603,
+        "price": 69565.14
+    },
+    {
+        "make": "Jones-Fernandez",
+        "model": "Eat",
+        "year": 2023,
+        "vin": "8KDKLFGQQ7S5YEFNV",
+        "color": "LightSkyBlue",
+        "mileage": 129226,
+        "price": 23170.86
+    },
+    {
+        "make": "Williams Group",
+        "model": "Size",
+        "year": 2016,
+        "vin": "SQ3JIF35SXIRBUAEE",
+        "color": "Silver",
+        "mileage": 241354,
+        "price": 50959.24
+    },
+    {
+        "make": "Carpenter, Flores and Russell",
+        "model": "Whom",
+        "year": 2002,
+        "vin": "B8PABKNXG4V2JCOM5",
+        "color": "MediumBlue",
+        "mileage": 277239,
+        "price": 54507.39
+    },
+    {
+        "make": "Leonard Group",
+        "model": "Continue",
+        "year": 1999,
+        "vin": "U8WIXBUXXNOJAXP8K",
+        "color": "PaleTurquoise",
+        "mileage": 182253,
+        "price": 6347.3
+    },
+    {
+        "make": "Huff, Smith and Greer",
+        "model": "Watch",
+        "year": 2010,
+        "vin": "HSMIVPL0BLBAQZI5N",
+        "color": "Crimson",
+        "mileage": 96054,
+        "price": 18298.53
+    },
+    {
+        "make": "Maynard, Brown and Allen",
+        "model": "Loss",
+        "year": 1999,
+        "vin": "EZJ6OPM7LQBRNUP17",
+        "color": "Crimson",
+        "mileage": 206047,
+        "price": 48398.92
+    },
+    {
+        "make": "Summers-Miller",
+        "model": "Serious",
+        "year": 2012,
+        "vin": "FKM8M9Z2RBXABAL3M",
+        "color": "DimGray",
+        "mileage": 201517,
+        "price": 24409.53
+    },
+    {
+        "make": "Quinn and Sons",
+        "model": "Piece",
+        "year": 1994,
+        "vin": "Z7TNBE29LOKD1RYBQ",
+        "color": "WhiteSmoke",
+        "mileage": 294657,
+        "price": 44778.94
+    },
+    {
+        "make": "James-Knight",
+        "model": "He",
+        "year": 2000,
+        "vin": "QN0DFHICU9WYYCEOH",
+        "color": "DarkViolet",
+        "mileage": 24713,
+        "price": 14060.15
+    },
+    {
+        "make": "Mcknight, Meyer and Hogan",
+        "model": "Suddenly",
+        "year": 2003,
+        "vin": "ILMIVNZF89MTUYALW",
+        "color": "DarkSlateBlue",
+        "mileage": 99265,
+        "price": 57682.58
+    },
+    {
+        "make": "Miles and Sons",
+        "model": "Sport",
+        "year": 1996,
+        "vin": "D0BBOGM2DCJEJEGAA",
+        "color": "CadetBlue",
+        "mileage": 58483,
+        "price": 8415.79
+    },
+    {
+        "make": "Casey-Whitaker",
+        "model": "Sea",
+        "year": 2013,
+        "vin": "SIR5HPAQ0N8LGZQFP",
+        "color": "Tomato",
+        "mileage": 222869,
+        "price": 26702.53
+    },
+    {
+        "make": "Martin LLC",
+        "model": "Will",
+        "year": 2006,
+        "vin": "QJHZKWOW2RZZDMALI",
+        "color": "Coral",
+        "mileage": 281598,
+        "price": 69913.27
+    },
+    {
+        "make": "Taylor and Sons",
+        "model": "As",
+        "year": 1994,
+        "vin": "OLRBQISVKNSIPBQTI",
+        "color": "Chocolate",
+        "mileage": 183093,
+        "price": 56458.41
+    },
+    {
+        "make": "Ellis-Dodson",
+        "model": "Particular",
+        "year": 2003,
+        "vin": "ZISTZSMGKYXBFIFBE",
+        "color": "Navy",
+        "mileage": 204075,
+        "price": 51903.14
+    }
+]
